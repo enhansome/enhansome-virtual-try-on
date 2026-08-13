@@ -19,7 +19,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34064
+            "stars": 34065
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2023-12-10T23:17:27Z",
             "owner": "ashawkey",
             "repo": "stable-dreamfusion",
-            "stars": 8853
+            "stars": 8856
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2024-12-16T06:11:15Z",
             "owner": "threestudio-project",
             "repo": "threestudio",
-            "stars": 7043
+            "stars": 7046
           }
         }
       ],
@@ -168,7 +168,7 @@
             "last_commit": "2025-06-21T06:29:00Z",
             "owner": "cotton6",
             "repo": "COTTON-size-does-matter",
-            "stars": 149
+            "stars": 148
           }
         },
         {
@@ -284,7 +284,7 @@
             "last_commit": "2025-04-27T14:52:13Z",
             "owner": "shadow2496",
             "repo": "VITON-HD",
-            "stars": 1160
+            "stars": 1161
           }
         },
         {
@@ -380,7 +380,7 @@
             "last_commit": "2025-12-16T00:59:26Z",
             "owner": "Zheng-Chong",
             "repo": "CatVTON",
-            "stars": 1819
+            "stars": 1820
           }
         },
         {
@@ -841,7 +841,7 @@
             "last_commit": "2025-08-29T07:41:21Z",
             "owner": "Kunbyte-AI",
             "repo": "OmniTry",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -1091,7 +1091,7 @@
             "last_commit": "2023-01-18T07:56:00Z",
             "owner": "yumingj",
             "repo": "DeepFashion-MultiModal",
-            "stars": 661
+            "stars": 662
           }
         },
         {
@@ -1181,7 +1181,7 @@
             "last_commit": "2026-01-27T13:45:33Z",
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 51
+            "stars": 53
           }
         }
       ],
@@ -1312,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:29.621Z",
+    "last_updated": "2026-08-13T23:56:07.443Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
