@@ -25,7 +25,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### Stable-Diffusion
 
-* [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,856 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
+* [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,855 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
 * [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,046 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
 
 ## Image-based (2D) Virtual Try-on
@@ -361,7 +361,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Non-clothing Virtual Try-on
 
 * Stable-Hair: Real-World Hair Transfer via Diffusion Model, AAAI 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Hair) ⭐ 535 | 🐛 7 | 🌐 Python | 📅 2025-03-14
-* OmniTry: Virtual Try-On Anything without Masks - [Paper](http://arxiv.org/abs/2508.13632), [Code](https://github.com/Kunbyte-AI/OmniTry) ⭐ 268 | 🐛 7 | 🌐 Python | 📅 2025-08-29
+* OmniTry: Virtual Try-On Anything without Masks - [Paper](http://arxiv.org/abs/2508.13632), [Code](https://github.com/Kunbyte-AI/OmniTry) ⭐ 269 | 🐛 7 | 🌐 Python | 📅 2025-08-29
 * Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model, SIGGRAPH 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Makeup) ⭐ 229 | 🐛 4 | 🌐 Python | 📅 2024-07-14
 * Real-time Virtual-Try-On from a Single Example Image through Deep Inverse Graphics and Learned Differentiable Renderers, EUROGRAPHICS 2022 - [Paper](https://arxiv.org/pdf/2205.06305.pdf)
 * ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones, ACM Multimedia 2021 - [Paper](https://arxiv.org/pdf/2108.10515.pdf)
@@ -379,7 +379,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 * Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis, ICCV 2019 - [Paper](https://arxiv.org/pdf/1909.12224.pdf), [Code](https://github.com/svip-lab/impersonator) ⭐ 1,717 | 🐛 37 | 🌐 Python | 📅 2022-06-21
 * Progressive Pose Attention for Person Image Generation, CVPR 2019 - [Paper](https://arxiv.org/pdf/1904.03349.pdf), [Code](https://github.com/tengteng95/Pose-Transfer) ⭐ 741 | 🐛 40 | 🌐 Python | 📅 2023-02-11
-* Deep Image Spatial Transformation for Person Image Generation, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.00696v2.pdf), [Code](https://github.com/RenYurui/Global-Flow-Local-Attention) ⭐ 569 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2022-09-03
+* Deep Image Spatial Transformation for Person Image Generation, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.00696v2.pdf), [Code](https://github.com/RenYurui/Global-Flow-Local-Attention) ⭐ 568 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2022-09-03
 * A Variational U-Net for Conditional Appearance and Shape Generation, CVPR 2018 - [Paper](https://arxiv.org/pdf/1804.04694.pdf), [Code](https://github.com/CompVis/vunet) ⭐ 507 | 🐛 12 | 🌐 Python | 📅 2020-12-18
 * Controllable Person Image Synthesis with Attribute-Decomposed GAN, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.12267.pdf), [Code](https://github.com/menyifang/ADGAN) ⭐ 483 | 🐛 37 | 🌐 Python | 📅 2022-11-16
 * Pose guided person image generation, NeurIPS 2017 - [Paper](https://arxiv.org/pdf/1705.09368.pdf), [Code](https://github.com/charliememory/Pose-Guided-Person-Image-Generation) ⭐ 302 | 🐛 18 | 🌐 Python | 📅 2023-08-11
@@ -448,7 +448,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Related Repositories
 
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,417 | 🐛 6 | 📅 2021-10-12
-* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,234 | 🐛 15 | 📅 2021-11-12
+* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,233 | 🐛 15 | 📅 2021-11-12
 * [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 663 | 🐛 2 | 📅 2024-01-01
 * [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 633 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
 * [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer) ⭐ 332 | 🐛 1 | 📅 2026-02-12
@@ -460,4 +460,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

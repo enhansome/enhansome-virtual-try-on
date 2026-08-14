@@ -53,7 +53,7 @@
             "last_commit": "2023-12-10T23:17:27Z",
             "owner": "ashawkey",
             "repo": "stable-dreamfusion",
-            "stars": 8856
+            "stars": 8855
           }
         },
         {
@@ -841,7 +841,7 @@
             "last_commit": "2025-08-29T07:41:21Z",
             "owner": "Kunbyte-AI",
             "repo": "OmniTry",
-            "stars": 268
+            "stars": 269
           }
         },
         {
@@ -903,7 +903,7 @@
             "last_commit": "2022-09-03T09:29:52Z",
             "owner": "RenYurui",
             "repo": "Global-Flow-Local-Attention",
-            "stars": 569
+            "stars": 568
           }
         },
         {
@@ -1215,7 +1215,7 @@
             "last_commit": "2021-11-12T18:29:30Z",
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1234
+            "stars": 1233
           }
         },
         {
@@ -1312,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:56:07.443Z",
+    "last_updated": "2026-08-14T23:34:15.929Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
