@@ -19,7 +19,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34065
+            "stars": 34066
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2024-12-16T06:11:15Z",
             "owner": "threestudio-project",
             "repo": "threestudio",
-            "stars": 7046
+            "stars": 7045
           }
         }
       ],
@@ -366,7 +366,7 @@
             "last_commit": "2024-05-13T08:50:07Z",
             "owner": "levihsu",
             "repo": "OOTDiffusion",
-            "stars": 6581
+            "stars": 6582
           }
         },
         {
@@ -380,7 +380,7 @@
             "last_commit": "2025-12-16T00:59:26Z",
             "owner": "Zheng-Chong",
             "repo": "CatVTON",
-            "stars": 1820
+            "stars": 1821
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2024-07-29T03:32:56Z",
             "owner": "ShineChen1024",
             "repo": "MagicClothing",
-            "stars": 1545
+            "stars": 1544
           }
         },
         {
@@ -643,7 +643,7 @@
             "last_commit": "2025-09-21T03:53:45Z",
             "owner": "River-Zhang",
             "repo": "SIFU",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -1312,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:34:15.929Z",
+    "last_updated": "2026-08-15T23:33:00.508Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
