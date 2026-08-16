@@ -19,7 +19,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34066
+            "stars": 34068
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2024-03-28T17:37:43Z",
             "owner": "aimagelab",
             "repo": "multimodal-garment-designer",
-            "stars": 445
+            "stars": 446
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2024-05-13T08:50:07Z",
             "owner": "levihsu",
             "repo": "OOTDiffusion",
-            "stars": 6582
+            "stars": 6583
           }
         },
         {
@@ -1015,7 +1015,7 @@
             "last_commit": "2025-09-30T17:29:08Z",
             "owner": "muzishen",
             "repo": "IMAGPose",
-            "stars": 188
+            "stars": 169
           }
         },
         {
@@ -1312,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:33:00.508Z",
+    "last_updated": "2026-08-16T23:32:59.129Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",

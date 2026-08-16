@@ -20,7 +20,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,066 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,068 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
 * [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,424 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
@@ -68,7 +68,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ICCV 2023
 
-* Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing - [Paper](https://arxiv.org/abs/2304.02051), [Code](https://github.com/aimagelab/multimodal-garment-designer) ⭐ 445 | 🐛 10 | 🌐 Python | 📅 2024-03-28
+* Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing - [Paper](https://arxiv.org/abs/2304.02051), [Code](https://github.com/aimagelab/multimodal-garment-designer) ⭐ 446 | 🐛 10 | 🌐 Python | 📅 2024-03-28
 * Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network - [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf), [Code](https://github.com/cotton6/COTTON-size-does-matter) ⭐ 148 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2025-06-21
 * Virtual Try-On with Pose-Garment Keypoints Guided Inpainting - [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Virtual_Try-On_with_Pose-Garment_Keypoints_Guided_Inpainting_ICCV_2023_paper.pdf), [Code](https://github.com/lizhi-ntu/KGI) ⭐ 88 | 🐛 10 | 🌐 Python | 📅 2024-01-14
 
@@ -160,7 +160,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### Others
 
-* OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,582 | 🐛 88 | 🌐 Python | 📅 2024-05-13
+* OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,583 | 🐛 88 | 🌐 Python | 📅 2024-05-13
 * CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON) ⭐ 1,821 | 🐛 68 | 🌐 Python | 📅 2025-12-16
 * Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing) ⭐ 1,544 | 🐛 63 | 🌐 Python | 📅 2024-07-29
 * IMAGDressing-v1: Customizable Virtual Dressing - [Demo](https://sf.dictdoc.site/), [code](https://github.com/muzishen/IMAGDressing) ⭐ 1,344 | 🐛 10 | 🌐 Python | 📅 2025-09-30, [Project](https://imagdressing.github.io/)
@@ -387,7 +387,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 * Guided Image-to-Image Translation with Bi-Directional Feature Transformation, ICCV 2019 - [Paper](https://arxiv.org/pdf/1910.11328v1.pdf), [Code](https://github.com/vt-vl-lab/Guided-pix2pix) ⭐ 198 | 🐛 1 | 🌐 Python | 📅 2024-03-10
 * Synthesizing Images of Humans in Unseen Poses, CVPR 2018 - [Paper](https://arxiv.org/pdf/1804.07739.pdf), [Code](https://github.com/balakg/posewarp-cvpr2018) ⭐ 194 | 🐛 5 | 🌐 Python | 📅 2023-08-22
 * Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models, ICLR 2024 - [Paper](https://openreview.net/pdf?id=rHzapPnCgT), [Project](https://github.com/tencent-ailab/PCDMs) ⭐ 192 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-09-30
-* IMAGPose: A Unified Conditional Framework for Pose-Guided Person Generation, NeurIPS 2024 - [Paper](https://openreview.net/forum?id=6IyYa4gETN), [Project](https://github.com/muzishen/IMAGPose) ⭐ 188 | 🐛 5 | 🌐 Python | 📅 2025-09-30
+* IMAGPose: A Unified Conditional Framework for Pose-Guided Person Generation, NeurIPS 2024 - [Paper](https://openreview.net/forum?id=6IyYa4gETN), [Project](https://github.com/muzishen/IMAGPose) ⭐ 169 | 🐛 5 | 🌐 Python | 📅 2025-09-30
 * Dense Intrinsic Appearance Flow for Human Pose Transfer, CVPR 2019 - [Paper](https://arxiv.org/pdf/1903.11326v1.pdf), [Code](https://github.com/ly015/intrinsic_flow) ⭐ 147 | 🐛 7 | 🌐 Python | 📅 2024-07-25
 * Neural Pose Transfer by Spatially Adaptive Instance Normalization, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.07254v2.pdf), [Code](https://github.com/jiashunwang/Neural-Pose-Transfer) ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2021-09-15
 * Unsupervised Person Image Generation with Semantic Parsing Transformation, CVPR 2019, TPAMI 2020 - [Paper](https://arxiv.org/pdf/1904.03379.pdf), [Code](https://github.com/SijieSong/person_generation_spt) ⭐ 110 | 🐛 7 | 🌐 Python | 📅 2021-05-21
@@ -460,4 +460,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
