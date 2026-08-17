@@ -19,7 +19,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34068
+            "stars": 34070
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2024-12-16T06:11:15Z",
             "owner": "threestudio-project",
             "repo": "threestudio",
-            "stars": 7045
+            "stars": 7046
           }
         }
       ],
@@ -804,10 +804,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-27T03:05:22Z",
+            "last_commit": "2026-08-17T17:09:59Z",
             "owner": "AMAP-ML",
             "repo": "Eevee",
-            "stars": 76
+            "stars": 77
           }
         }
       ],
@@ -1243,7 +1243,7 @@
             "last_commit": "2021-09-19T15:08:19Z",
             "owner": "lzhbrian",
             "repo": "Cool-Fashion-Papers",
-            "stars": 633
+            "stars": 634
           }
         },
         {
@@ -1312,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:32:59.129Z",
+    "last_updated": "2026-08-17T23:34:04.031Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",

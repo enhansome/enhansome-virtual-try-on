@@ -20,13 +20,13 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,068 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,070 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
 * [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,424 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
 
 * [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,855 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
-* [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,045 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
+* [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,046 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
 
 ## Image-based (2D) Virtual Try-on
 
@@ -347,7 +347,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Video Virtual Try-on
 
 * ClothFormer: Taming Video Virtual Try-on in All Module, CVPR 2022 - [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_ClothFormer_Taming_Video_Virtual_Try-On_in_All_Module_CVPR_2022_paper.pdf), [Code](https://github.com/luxiangju-PersonAI/ClothFormer) ⭐ 129 | 🐛 5 | 📅 2022-04-27, [Project](https://cloth-former.github.io/)
-* Eevee: Towards Close-up High-resolution Video-based Virtual Try-on, CVPR 2026 - [Project](https://github.com/AMAP-ML/Eevee) ⭐ 76 | 🐛 2 | 🌐 Python | 📅 2026-02-27
+* Eevee: Towards Close-up High-resolution Video-based Virtual Try-on, CVPR 2026 - [Project](https://github.com/AMAP-ML/Eevee) ⭐ 77 | 🐛 2 | 🌐 Python | 📅 2026-08-17
 * MV-TON: Memory-based Video Virtual Try-on network, ACM MM 2021 - [Paper](https://arxiv.org/abs/2108.07502)
 * ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on, WACV 2021 Workshop - [Project/Paper/Code](https://gauravkuppa.github.io/publication/2021-01-09-shine-on-1)
 * FW-GAN: Flow-Navigated Warping GAN for Video Virtual Try-On, ICCV 2019 - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.html)
@@ -448,9 +448,9 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Related Repositories
 
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,417 | 🐛 6 | 📅 2021-10-12
-* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,233 | 🐛 15 | 📅 2021-11-12
+* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,233 | 🐛 17 | 📅 2021-11-12
 * [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 663 | 🐛 2 | 📅 2024-01-01
-* [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 633 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
+* [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 634 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
 * [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer) ⭐ 332 | 🐛 1 | 📅 2026-02-12
 * [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human) ⭐ 257 | 🐛 1 | 📅 2023-10-30
 * [Clothes-3D](https://github.com/lzhbrian/Clothes-3D) ⭐ 182 | 🐛 0 | 📅 2020-04-16
@@ -460,4 +460,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
