@@ -19,7 +19,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34070
+            "stars": 34075
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2023-12-10T23:17:27Z",
             "owner": "ashawkey",
             "repo": "stable-dreamfusion",
-            "stars": 8855
+            "stars": 8854
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2024-05-13T08:50:07Z",
             "owner": "levihsu",
             "repo": "OOTDiffusion",
-            "stars": 6583
+            "stars": 6582
           }
         },
         {
@@ -903,7 +903,7 @@
             "last_commit": "2022-09-03T09:29:52Z",
             "owner": "RenYurui",
             "repo": "Global-Flow-Local-Attention",
-            "stars": 568
+            "stars": 567
           }
         },
         {
@@ -1243,7 +1243,7 @@
             "last_commit": "2021-09-19T15:08:19Z",
             "owner": "lzhbrian",
             "repo": "Cool-Fashion-Papers",
-            "stars": 634
+            "stars": 635
           }
         },
         {
@@ -1312,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:34:04.031Z",
+    "last_updated": "2026-08-18T23:33:51.783Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
