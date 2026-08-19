@@ -231,7 +231,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### IJCV 2026
 
-* GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting - [Project](https://yukangcao.github.io/GS-VTON/), [Paper](https://arxiv.org/abs/2410.05259), [Code](https://github.com/yukangcao/GS-VTON) ⭐ 231 | 🐛 3 | 🌐 Python | 📅 2026-03-27
+* GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting - [Project](https://yukangcao.github.io/GS-VTON/), [Paper](https://arxiv.org/abs/2410.05259), [Code](https://github.com/yukangcao/GS-VTON) ⭐ 232 | 🐛 3 | 🌐 Python | 📅 2026-03-27
 
 #### CVPR 2025
 
@@ -460,4 +460,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
