@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34076
+                "stars": 34075
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-02-23T04:58:34Z",
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3424
+                "stars": 3422
               }
             }
           ],
@@ -54,7 +54,7 @@
                 "last_commit": "2023-12-10T23:17:27Z",
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8855
+                "stars": 8853
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2024-12-16T06:11:15Z",
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7046
+                "stars": 7045
               }
             }
           ],
@@ -97,7 +97,7 @@
                 "last_commit": "2025-10-12T11:55:22Z",
                 "owner": "rlawjdghek",
                 "repo": "StableVITON",
-                "stars": 1263
+                "stars": 1262
               }
             },
             {
@@ -164,7 +164,7 @@
                 "last_commit": "2024-03-28T17:37:43Z",
                 "owner": "aimagelab",
                 "repo": "multimodal-garment-designer",
-                "stars": 446
+                "stars": 444
               }
             },
             {
@@ -231,7 +231,7 @@
                 "last_commit": "2024-12-12T10:00:06Z",
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 659
+                "stars": 658
               }
             },
             {
@@ -305,7 +305,7 @@
                 "last_commit": "2025-04-27T14:52:13Z",
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1161
+                "stars": 1160
               }
             },
             {
@@ -372,7 +372,7 @@
                 "last_commit": "2022-12-05T09:40:18Z",
                 "owner": "andrewjong",
                 "repo": "SwapNet",
-                "stars": 390
+                "stars": 389
               }
             }
           ],
@@ -394,7 +394,7 @@
                 "last_commit": "2024-05-13T08:50:07Z",
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6583
+                "stars": 6581
               }
             },
             {
@@ -424,7 +424,7 @@
                 "last_commit": "2024-07-29T03:32:56Z",
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1544
+                "stars": 1543
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2023-02-11T17:27:57Z",
                 "owner": "MartinPernus",
                 "repo": "FICE",
-                "stars": 66
+                "stars": 65
               }
             },
             {
@@ -559,7 +559,7 @@
                 "last_commit": "2023-03-25T08:01:44Z",
                 "owner": "JyChen9811",
                 "repo": "DOC-VTON",
-                "stars": 62
+                "stars": 61
               }
             },
             {
@@ -744,7 +744,7 @@
                 "last_commit": "2024-06-21T12:11:56Z",
                 "owner": "KiseKloset",
                 "repo": "DM-VTON",
-                "stars": 149
+                "stars": 148
               }
             },
             {
@@ -872,7 +872,7 @@
             "last_commit": "2026-08-17T17:09:59Z",
             "owner": "AMAP-ML",
             "repo": "Eevee",
-            "stars": 77
+            "stars": 78
           }
         }
       ],
@@ -1034,7 +1034,7 @@
             "last_commit": "2025-01-22T06:33:46Z",
             "owner": "YanzuoLu",
             "repo": "CFLD",
-            "stars": 243
+            "stars": 242
           }
         },
         {
@@ -1175,7 +1175,7 @@
             "last_commit": "2023-01-18T07:56:00Z",
             "owner": "yumingj",
             "repo": "DeepFashion-MultiModal",
-            "stars": 662
+            "stars": 663
           }
         },
         {
@@ -1241,7 +1241,7 @@
             "last_commit": "2024-07-26T10:35:32Z",
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5984
+            "stars": 5983
           }
         },
         {
@@ -1271,7 +1271,7 @@
             "last_commit": "2026-01-27T13:45:33Z",
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 53
+            "stars": 54
           }
         }
       ],
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:34:31.645Z",
+    "last_updated": "2026-08-20T23:37:17.926Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_id": 273734636,
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
