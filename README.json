@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34075
+                "stars": 34076
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2023-12-10T23:17:27Z",
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8853
+                "stars": 8854
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2024-12-16T06:11:15Z",
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7045
+                "stars": 7044
               }
             }
           ],
@@ -394,7 +394,7 @@
                 "last_commit": "2024-05-13T08:50:07Z",
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6581
+                "stars": 6582
               }
             },
             {
@@ -869,10 +869,10 @@
             "archived": false,
             "id": 1098966635,
             "language": "Python",
-            "last_commit": "2026-08-17T17:09:59Z",
+            "last_commit": "2026-08-21T02:32:19Z",
             "owner": "AMAP-ML",
             "repo": "Eevee",
-            "stars": 78
+            "stars": 79
           }
         }
       ],
@@ -1241,7 +1241,7 @@
             "last_commit": "2024-07-26T10:35:32Z",
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5983
+            "stars": 5984
           }
         },
         {
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:37:17.926Z",
+    "last_updated": "2026-08-21T23:35:59.724Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_id": 273734636,
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
