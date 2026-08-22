@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34076
+                "stars": 34077
               }
             },
             {
@@ -409,7 +409,7 @@
                 "last_commit": "2025-12-16T00:59:26Z",
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1821
+                "stars": 1822
               }
             },
             {
@@ -923,7 +923,7 @@
             "last_commit": "2024-07-14T10:26:05Z",
             "owner": "Xiaojiu-z",
             "repo": "Stable-Makeup",
-            "stars": 229
+            "stars": 230
           }
         }
       ],
@@ -1271,7 +1271,7 @@
             "last_commit": "2026-01-27T13:45:33Z",
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 54
+            "stars": 55
           }
         }
       ],
@@ -1292,7 +1292,7 @@
             "last_commit": "2021-10-12T04:37:11Z",
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4417
+            "stars": 4418
           }
         },
         {
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:35:59.724Z",
+    "last_updated": "2026-08-22T23:33:27.188Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_id": 273734636,
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
