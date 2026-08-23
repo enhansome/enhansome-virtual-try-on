@@ -305,7 +305,7 @@
                 "last_commit": "2025-04-27T14:52:13Z",
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1160
+                "stars": 1161
               }
             },
             {
@@ -409,7 +409,7 @@
                 "last_commit": "2025-12-16T00:59:26Z",
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1822
+                "stars": 1823
               }
             },
             {
@@ -923,7 +923,7 @@
             "last_commit": "2024-07-14T10:26:05Z",
             "owner": "Xiaojiu-z",
             "repo": "Stable-Makeup",
-            "stars": 230
+            "stars": 231
           }
         }
       ],
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:33:27.188Z",
+    "last_updated": "2026-08-23T23:33:55.672Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_id": 273734636,
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
