@@ -20,13 +20,13 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,077 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,078 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
 * [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,422 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
 
 * [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,854 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
-* [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,044 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
+* [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,045 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
 
 ## Image-based (2D) Virtual Try-on
 
@@ -51,7 +51,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### CVPR 2024
 
-* StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - [Project](https://rlawjdghek.github.io/StableVITON/), [Code/Data/Model](https://github.com/rlawjdghek/StableVITON) ⭐ 1,262 | 🐛 1 | 🌐 Python | 📅 2025-10-12
+* StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - [Project](https://rlawjdghek.github.io/StableVITON/), [Code/Data/Model](https://github.com/rlawjdghek/StableVITON) ⭐ 1,261 | 🐛 1 | 🌐 Python | 📅 2025-10-12
 * Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On - [Project/Code](https://github.com/Gal4way/TPD) ⭐ 154 | 🐛 6 | 🌐 Python | 📅 2025-03-20
 * CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model - [Paper](https://arxiv.org/pdf/2311.18405.pdf), [Project](https://github.com/zengjianhao/CAT-DM) ⭐ 141 | 🐛 14 | 🌐 Python | 📅 2024-09-23
 * PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns - [Project/Code](https://github.com/GAP-LAB-CUHK-SZ/PICTURE) ⭐ 54 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2024-04-09
@@ -101,8 +101,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### CVPRW 2022
 
-* Dual-Branch Collaborative Transformer for Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Fenocchi_Dual-Branch_Collaborative_Transformer_for_Virtual_Try-On_CVPRW_2022_paper.pdf)
 * Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Morelli_Dress_Code_High-Resolution_Multi-Category_Virtual_Try-On_CVPRW_2022_paper.pdf), [Code/Data](https://github.com/aimagelab/dress-code) ⭐ 658 | 🐛 16 | 🌐 Python | 📅 2024-12-12
+* Dual-Branch Collaborative Transformer for Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Fenocchi_Dual-Branch_Collaborative_Transformer_for_Virtual_Try-On_CVPRW_2022_paper.pdf)
 
 #### ICCV 2021
 
@@ -160,7 +160,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### Others
 
-* OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,582 | 🐛 88 | 🌐 Python | 📅 2024-05-13
+* OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,583 | 🐛 88 | 🌐 Python | 📅 2024-05-13
 * CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON) ⭐ 1,823 | 🐛 70 | 🌐 Python | 📅 2025-12-16
 * Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing) ⭐ 1,543 | 🐛 63 | 🌐 Python | 📅 2024-07-29
 * IMAGDressing-v1: Customizable Virtual Dressing - [Demo](https://sf.dictdoc.site/), [code](https://github.com/muzishen/IMAGDressing) ⭐ 1,344 | 🐛 10 | 🌐 Python | 📅 2025-09-30, [Project](https://imagdressing.github.io/)
@@ -410,7 +410,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Datasets for Virtual Try-on
 
-* DeepFashion MultiModal - [Download](https://github.com/yumingj/DeepFashion-MultiModal) ⭐ 663 | 🐛 4 | 📅 2023-01-18
+* DeepFashion MultiModal - [Download](https://github.com/yumingj/DeepFashion-MultiModal) ⭐ 664 | 🐛 4 | 📅 2023-01-18
 * StreetTryOn - [Download](https://github.com/cuiaiyu/street-tryon-benchmark) ⭐ 160 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-19
 * TailorNet Dataset - [Download](https://github.com/zycliao/TailorNet_dataset) ⭐ 156 | 🐛 1 | 🌐 Python | 📅 2026-02-09, [Project](http://virtualhumans.mpi-inf.mpg.de/tailornet/)
 * CLOTH4D, CVPR 2023 - [Download](https://github.com/AemikaChow/CLOTH4D) ⭐ 80 | 🐛 4 | 🌐 Python | 📅 2024-07-29
@@ -460,4 +460,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

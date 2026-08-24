@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34077
+                "stars": 34078
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2024-12-16T06:11:15Z",
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7044
+                "stars": 7045
               }
             }
           ],
@@ -87,6 +87,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework - Paper",
+              "description": ", Code, Project/Data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1060862737,
+                "language": "JavaScript",
+                "last_commit": "2026-07-06T13:23:51Z",
+                "owner": "du-chenghu",
+                "repo": "OccFree-VTON",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NeurIPS 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MV-VTON: Multi-View Virtual Try-On with Diffusion Models - Paper",
+              "description": ", Code/Data, Project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 790074205,
+                "language": "Python",
+                "last_commit": "2024-12-10T13:44:03Z",
+                "owner": "hywang2002",
+                "repo": "MV-VTON",
+                "stars": 296
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AAAI 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - Project",
               "description": ", Code/Data/Model",
               "children": [],
@@ -97,7 +141,7 @@
                 "last_commit": "2025-10-12T11:55:22Z",
                 "owner": "rlawjdghek",
                 "repo": "StableVITON",
-                "stars": 1262
+                "stars": 1261
               }
             },
             {
@@ -154,6 +198,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Towards Squeezing-Averse Virtual Try-On via Sequential Deformation - Paper",
+              "description": ", Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730557380,
+                "language": "Python",
+                "last_commit": "2024-02-01T14:44:03Z",
+                "owner": "SHShim0513",
+                "repo": "SD-VITON",
+                "stars": 136
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AAAI 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing - Paper",
               "description": ", Code",
               "children": [],
@@ -201,6 +267,50 @@
           "description": null,
           "node_type": "group",
           "title": "ICCV 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning - Paper",
+              "description": ", Code, Project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617264358,
+                "language": "Python",
+                "last_commit": "2024-01-24T16:49:45Z",
+                "owner": "xiezhy6",
+                "repo": "GP-VTON",
+                "stars": 506
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C-VTON: Context-Driven Image-Based Virtual Try-On Network - Paper",
+              "description": ", Code/Model/Data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 414774184,
+                "language": "Python",
+                "last_commit": "2022-12-08T13:55:42Z",
+                "owner": "benquick123",
+                "repo": "C-VTON",
+                "stars": 153
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WACV 2022"
         },
         {
           "children": [
@@ -295,6 +405,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Dress Code: High-Resolution Multi-Category Virtual Try-On - Paper",
+              "description": ", Code/Data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397846434,
+                "language": "Python",
+                "last_commit": "2024-12-12T10:00:06Z",
+                "owner": "aimagelab",
+                "repo": "dress-code",
+                "stars": 658
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPRW 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - Paper",
+              "description": ", Code, Colab",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 357386419,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-12-30T00:52:10Z",
+                "owner": "cuiaiyu",
+                "repo": "dressing-in-order",
+                "stars": 551
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICCV 2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization - Paper",
               "description": ", Code/Model",
               "children": [],
@@ -347,6 +501,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content - Paper/Code/Data",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228776814,
+                "language": "Python",
+                "last_commit": "2022-10-04T09:24:03Z",
+                "owner": "switchablenorms",
+                "repo": "DeepFashion_Try_On",
+                "stars": 884
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2020"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Toward Characteristic-Preserving Image-based Virtual Try-On Network - Paper",
               "description": ", Code",
               "children": [],
@@ -384,6 +560,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "VITON: An Image-based Virtual Try-on Network - Paper",
+              "description": ", Code/Model",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113921889,
+                "language": "Python",
+                "last_commit": "2023-04-26T14:13:28Z",
+                "owner": "xthan",
+                "repo": "VITON",
+                "stars": 582
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2018"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - Code",
               "description": null,
               "children": [],
@@ -394,7 +592,7 @@
                 "last_commit": "2024-05-13T08:50:07Z",
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6582
+                "stars": 6583
               }
             },
             {
@@ -682,6 +880,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting - Project",
+              "description": ", Paper, Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 868891856,
+                "language": "Python",
+                "last_commit": "2026-03-27T03:05:45Z",
+                "owner": "yukangcao",
+                "repo": "GS-VTON",
+                "stars": 232
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IJCV 2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction - Project",
               "description": ", Code",
               "children": [],
@@ -729,6 +949,116 @@
           "description": null,
           "node_type": "group",
           "title": "CVPR 2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DrapeNet: Garment Generation and Self-Supervised Draping - Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616369726,
+                "language": "Python",
+                "last_commit": "2023-09-06T18:07:12Z",
+                "owner": "liren2515",
+                "repo": "DrapeNet",
+                "stars": 127
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "3D Clothed Human Reconstruction in the Wild - Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 512954274,
+                "language": "Python",
+                "last_commit": "2024-04-08T12:38:00Z",
+                "owner": "hygenie1228",
+                "repo": "ClothWild_RELEASE",
+                "stars": 203
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ECCV 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "M3D-VTON: A Monocular-to-3D Virtual Try-On Network - Paper",
+              "description": ", Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397786941,
+                "language": "Python",
+                "last_commit": "2022-03-22T08:09:45Z",
+                "owner": "fyviezhao",
+                "repo": "M3D-VTON",
+                "stars": 180
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICCV 2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On - Paper",
+              "description": ", Project, Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422989301,
+                "language": "Python",
+                "last_commit": "2022-06-08T11:04:48Z",
+                "owner": "isantesteban",
+                "repo": "vto-garment-collisions",
+                "stars": 133
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CVPR 2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BCNet: Learning Body and Cloth Shape from A Single Image - Paper",
+              "description": ", Code/Data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279895421,
+                "language": "Python",
+                "last_commit": "2021-12-30T15:15:49Z",
+                "owner": "jby1993",
+                "repo": "BCNet",
+                "stars": 114
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ECCV 2020"
         },
         {
           "children": [
@@ -1175,7 +1505,7 @@
             "last_commit": "2023-01-18T07:56:00Z",
             "owner": "yumingj",
             "repo": "DeepFashion-MultiModal",
-            "stars": 663
+            "stars": 664
           }
         },
         {
@@ -1405,7 +1735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:33:55.672Z",
+    "last_updated": "2026-08-24T14:02:59.461Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_id": 273734636,
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
