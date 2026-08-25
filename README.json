@@ -54,7 +54,7 @@
                 "last_commit": "2023-12-10T23:17:27Z",
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8852
+                "stars": 8853
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2024-12-16T06:11:15Z",
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7045
+                "stars": 7046
               }
             }
           ],
@@ -1735,7 +1735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:33:07.036Z",
+    "last_updated": "2026-08-25T05:52:20.476Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_id": 273734636,
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
