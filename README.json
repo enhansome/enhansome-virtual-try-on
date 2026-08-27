@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34086
+                "stars": 34093
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2023-12-10T23:17:27Z",
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8853
+                "stars": 8854
               }
             },
             {
@@ -607,7 +607,7 @@
                 "last_commit": "2025-12-16T00:59:26Z",
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1823
+                "stars": 1824
               }
             },
             {
@@ -637,7 +637,7 @@
                 "last_commit": "2025-09-30T17:26:49Z",
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1344
+                "stars": 1343
               }
             },
             {
@@ -1238,7 +1238,7 @@
             "last_commit": "2025-08-29T07:41:21Z",
             "owner": "Kunbyte-AI",
             "repo": "OmniTry",
-            "stars": 269
+            "stars": 270
           }
         },
         {
@@ -1601,7 +1601,7 @@
             "last_commit": "2026-01-27T13:45:33Z",
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 55
+            "stars": 56
           }
         }
       ],
@@ -1735,7 +1735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:35:30.890Z",
+    "last_updated": "2026-08-27T04:30:06.056Z",
     "original_repository": "minar09/awesome-virtual-try-on",
     "original_repository_id": 273734636,
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
