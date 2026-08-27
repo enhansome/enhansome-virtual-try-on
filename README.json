@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-25T09:49:39Z",
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34093
+                "stars": 34094
               }
             },
             {
@@ -341,7 +341,7 @@
                 "last_commit": "2024-12-12T10:00:06Z",
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 658
+                "stars": 659
               }
             },
             {
@@ -415,7 +415,7 @@
                 "last_commit": "2024-12-12T10:00:06Z",
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 658
+                "stars": 659
               }
             }
           ],
@@ -1571,7 +1571,7 @@
             "last_commit": "2024-07-26T10:35:32Z",
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5984
+            "stars": 5985
           }
         },
         {
@@ -1735,9 +1735,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:30:06.056Z",
-    "original_repository": "minar09/awesome-virtual-try-on",
-    "original_repository_id": 273734636,
+    "last_updated": "2026-08-27T12:08:54.324Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 273734636,
+      "language": null,
+      "last_commit": "2026-07-27T12:45:49Z",
+      "owner": "minar09",
+      "repo": "awesome-virtual-try-on",
+      "stars": 3159
+    },
     "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
     "enhanced_repository_description": null,

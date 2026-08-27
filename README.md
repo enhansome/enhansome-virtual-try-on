@@ -20,7 +20,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,093 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,094 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
 * [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,422 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
@@ -89,7 +89,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 #### ECCV 2022
 
 * High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions - [Paper](https://arxiv.org/abs/2206.14180), [Code/Model](https://github.com/sangyun884/HR-VITON) ⭐ 917 | 🐛 64 | 🌐 Python | 📅 2024-12-31
-* Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://arxiv.org/pdf/2204.08532.pdf), [Code/Data](https://github.com/aimagelab/dress-code) ⭐ 658 | 🐛 16 | 🌐 Python | 📅 2024-12-12
+* Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://arxiv.org/pdf/2204.08532.pdf), [Code/Data](https://github.com/aimagelab/dress-code) ⭐ 659 | 🐛 16 | 🌐 Python | 📅 2024-12-12
 * Single Stage Virtual Try-on via Deformable Attention Flows - [Paper](https://arxiv.org/abs/2207.09161), [Code/Model](https://github.com/OFA-Sys/DAFlow) ⭐ 127 | 🐛 12 | 🌐 Python | 📅 2022-10-09
 
 #### CVPR 2022
@@ -101,7 +101,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### CVPRW 2022
 
-* Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Morelli_Dress_Code_High-Resolution_Multi-Category_Virtual_Try-On_CVPRW_2022_paper.pdf), [Code/Data](https://github.com/aimagelab/dress-code) ⭐ 658 | 🐛 16 | 🌐 Python | 📅 2024-12-12
+* Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Morelli_Dress_Code_High-Resolution_Multi-Category_Virtual_Try-On_CVPRW_2022_paper.pdf), [Code/Data](https://github.com/aimagelab/dress-code) ⭐ 659 | 🐛 16 | 🌐 Python | 📅 2024-12-12
 * Dual-Branch Collaborative Transformer for Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Fenocchi_Dual-Branch_Collaborative_Transformer_for_Virtual_Try-On_CVPRW_2022_paper.pdf)
 
 #### ICCV 2021
@@ -161,7 +161,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 #### Others
 
 * OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,585 | 🐛 88 | 🌐 Python | 📅 2024-05-13
-* CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON) ⭐ 1,824 | 🐛 70 | 🌐 Python | 📅 2025-12-16
+* CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON) ⭐ 1,824 | 🐛 71 | 🌐 Python | 📅 2025-12-16
 * Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing) ⭐ 1,543 | 🐛 63 | 🌐 Python | 📅 2024-07-29
 * IMAGDressing-v1: Customizable Virtual Dressing - [Demo](https://sf.dictdoc.site/), [code](https://github.com/muzishen/IMAGDressing) ⭐ 1,343 | 🐛 10 | 🌐 Python | 📅 2025-09-30, [Project](https://imagdressing.github.io/)
 * Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2308.06101), [Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) ⭐ 507 | 🐛 22 | 🌐 Python | 📅 2023-12-06
@@ -435,7 +435,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Demos
 
-* Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,984 | 🐛 55 | 📅 2024-07-26
+* Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,985 | 🐛 55 | 📅 2024-07-26
 * Outfit Anyone-in-the-Wild - [Demo](https://huggingface.co/spaces/selfit-camera/OutfitAnyone-in-the-Wild), [Docs](https://github.com/selfitcamera/Outfit-Anyone-in-the-Wild) ⭐ 268 | 🐛 8 | 🌐 Python | 📅 2024-05-30
 * Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 56 | 🐛 6 | 🌐 Python | 📅 2026-01-27
 * Looklet Dressing Room [Business](https://looklet.com), [Demo](https://dressing-room.looklet.com)
