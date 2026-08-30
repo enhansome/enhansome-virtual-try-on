@@ -21,7 +21,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34101,
+                "stars": 34102,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7059,
+                "stars": 7060,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6585,
+                "stars": 6586,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 71,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1828,
+                "stars": 1829,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:21:08.441Z",
+    "last_updated": "2026-08-30T01:13:44.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2587,7 +2587,7 @@
       "id": 273734636,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-27T12:45:49Z",
+      "last_commit": "2026-08-29T20:54:09Z",
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
@@ -2615,7 +2615,7 @@
         "vton"
       ]
     },
-    "original_repository_sha": "448582d9360c80a76e845b854f5cf4385c3222db",
+    "original_repository_sha": "f5b35fd9a3520ad5a0d4e8edb61ce359fcac16db",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
     "enhanced_repository_description": null,
     "title": "A Curated List of Awesome Virtual Try-on (VTON) Research! with stars"
