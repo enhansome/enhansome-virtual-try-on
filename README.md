@@ -20,7 +20,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,102 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,103 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
 * [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,422 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
@@ -160,9 +160,9 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### Others
 
-* OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,585 | 🐛 88 | 🌐 Python | 📅 2024-05-13
-* CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON) ⭐ 1,829 | 🐛 71 | 🌐 Python | 📅 2025-12-16
-* Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing) ⭐ 1,542 | 🐛 63 | 🌐 Python | 📅 2024-07-29
+* OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,587 | 🐛 88 | 🌐 Python | 📅 2024-05-13
+* CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON) ⭐ 1,830 | 🐛 71 | 🌐 Python | 📅 2025-12-16
+* Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing) ⭐ 1,543 | 🐛 63 | 🌐 Python | 📅 2024-07-29
 * IMAGDressing-v1: Customizable Virtual Dressing - [Demo](https://sf.dictdoc.site/), [code](https://github.com/muzishen/IMAGDressing) ⭐ 1,343 | 🐛 10 | 🌐 Python | 📅 2025-09-30, [Project](https://imagdressing.github.io/)
 * Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2308.06101), [Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) ⭐ 507 | 🐛 22 | 🌐 Python | 📅 2023-12-06
 * LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2305.13501), [Code](https://github.com/miccunifi/ladi-vton) ⭐ 465 | 🐛 28 | 🌐 Python | 📅 2023-09-05
@@ -239,7 +239,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### CVPR 2024
 
-* SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction - [Project](https://river-zhang.github.io/SIFU-projectpage/), [Code](https://github.com/River-Zhang/SIFU) ⭐ 274 | 🐛 19 | 🌐 Python | 📅 2025-09-21
+* SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction - [Project](https://river-zhang.github.io/SIFU-projectpage/), [Code](https://github.com/River-Zhang/SIFU) ⭐ 275 | 🐛 19 | 🌐 Python | 📅 2025-09-21
 * Garment Recovery with Shape and Deformation Priors - [Project/Code](https://github.com/liren2515/GarmentRecovery) ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2024-08-13
 * DiffAvatar Simulation-Ready Garment Optimization with Differentiable Simulation - [Project](https://people.csail.mit.edu/liyifei/publication/diffavatar/), [Code](https://github.com/facebookresearch/DiffAvatar) ⭐ 50 | 🐛 0 | 📅 2024-06-04
 
@@ -437,7 +437,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 * Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,984 | 🐛 55 | 📅 2024-07-26
 * Outfit Anyone-in-the-Wild - [Demo](https://huggingface.co/spaces/selfit-camera/OutfitAnyone-in-the-Wild), [Docs](https://github.com/selfitcamera/Outfit-Anyone-in-the-Wild) ⭐ 268 | 🐛 8 | 🌐 Python | 📅 2024-05-30
-* Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 56 | 🐛 6 | 🌐 Python | 📅 2026-01-27
+* Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 57 | 🐛 6 | 🌐 Python | 📅 2026-01-27
 * Looklet Dressing Room [Business](https://looklet.com), [Demo](https://dressing-room.looklet.com)
 * TINT platform for virtual try-on of everything face-related (makeup, glasses, earrings, jewelry, etc.) [Business](https://www.banuba.com/solutions/e-commerce/virtual-try-on), [Demo](https://banuba.com/solutions/e-commerce/virtual-makeup-demo/).
 * Virtual Try On AI - [Business/Demo](https://aitryon.art/)
@@ -448,11 +448,11 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Related Repositories
 
-* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,418 | 🐛 6 | 📅 2021-10-12
+* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,420 | 🐛 6 | 📅 2021-10-12
 * [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,233 | 🐛 29 | 📅 2021-11-12
 * [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 664 | 🐛 2 | 📅 2024-01-01
 * [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 635 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
-* [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer) ⭐ 332 | 🐛 1 | 📅 2026-02-12
+* [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer) ⭐ 333 | 🐛 1 | 📅 2026-02-12
 * [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human) ⭐ 257 | 🐛 1 | 📅 2023-10-30
 * [Clothes-3D](https://github.com/lzhbrian/Clothes-3D) ⭐ 182 | 🐛 0 | 📅 2020-04-16
 * [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References) ⭐ 176 | 🐛 0 | 📅 2020-03-02
@@ -461,4 +461,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

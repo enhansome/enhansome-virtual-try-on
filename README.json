@@ -21,7 +21,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34102,
+                "stars": 34103,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6585,
+                "stars": 6587,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 71,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1829,
+                "stars": 1830,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -883,7 +883,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1542,
+                "stars": 1543,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -1330,7 +1330,7 @@
                 "open_issues": 19,
                 "owner": "River-Zhang",
                 "repo": "SIFU",
-                "stars": 274,
+                "stars": 275,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -2331,7 +2331,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2358,7 +2358,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4418,
+            "stars": 4420,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2481,7 +2481,7 @@
             "open_issues": 1,
             "owner": "Zhangjinso",
             "repo": "Awesome-pose-transfer",
-            "stars": 332,
+            "stars": 333,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:21:46.850Z",
+    "last_updated": "2026-09-01T01:48:21.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2591,7 +2591,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3161,
+      "stars": 3163,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
