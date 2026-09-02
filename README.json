@@ -21,7 +21,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34103,
+                "stars": 34104,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 71,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1830,
+                "stars": 1831,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -883,7 +883,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1543,
+                "stars": 1544,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -1767,7 +1767,7 @@
             "open_issues": 7,
             "owner": "Xiaojiu-z",
             "repo": "Stable-Hair",
-            "stars": 536,
+            "stars": 537,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2331,7 +2331,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2358,7 +2358,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4420,
+            "stars": 4419,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:48:21.626Z",
+    "last_updated": "2026-09-02T01:00:24.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
