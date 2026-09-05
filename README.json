@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3422,
+                "stars": 3421,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8854,
+                "stars": 8853,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1161,
+                "stars": 1162,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6588,
+                "stars": 6587,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -908,7 +908,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1343,
+                "stars": 1344,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -1736,7 +1736,7 @@
             "id": 1098966635,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-21T02:32:19Z",
+            "last_commit": "2026-09-04T09:56:05Z",
             "open_issues": 2,
             "owner": "AMAP-ML",
             "repo": "Eevee",
@@ -2279,7 +2279,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5984,
+            "stars": 5985,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2331,7 +2331,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2387,7 +2387,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1233,
+            "stars": 1234,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:57:52.856Z",
+    "last_updated": "2026-09-05T00:55:36.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2591,7 +2591,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3164,
+      "stars": 3165,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
