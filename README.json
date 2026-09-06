@@ -21,7 +21,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34109,
+                "stars": 34111,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8853,
+                "stars": 8854,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6587,
+                "stars": 6585,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -908,7 +908,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1344,
+                "stars": 1345,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -2358,7 +2358,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4420,
+            "stars": 4419,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:55:36.805Z",
+    "last_updated": "2026-09-06T00:53:49.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
