@@ -20,12 +20,12 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,112 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,114 | 🐛 460 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
 * [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,421 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
 
-* [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,856 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
+* [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,857 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
 * [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,064 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
 
 ## Image-based (2D) Virtual Try-on
@@ -47,7 +47,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### AAAI 2025
 
-* MV-VTON: Multi-View Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/abs/2404.17364), [Code/Data](https://github.com/hywang2002/MV-VTON) ⭐ 296 | 🐛 6 | 🌐 Python | 📅 2024-12-10, [Project](https://hywang2002.github.io/MV-VTON/)
+* MV-VTON: Multi-View Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/abs/2404.17364), [Code/Data](https://github.com/hywang2002/MV-VTON) ⭐ 297 | 🐛 6 | 🌐 Python | 📅 2024-12-10, [Project](https://hywang2002.github.io/MV-VTON/)
 
 #### CVPR 2024
 
@@ -361,7 +361,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Non-clothing Virtual Try-on
 
 * Stable-Hair: Real-World Hair Transfer via Diffusion Model, AAAI 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Hair) ⭐ 538 | 🐛 7 | 🌐 Python | 📅 2025-03-14
-* OmniTry: Virtual Try-On Anything without Masks - [Paper](http://arxiv.org/abs/2508.13632), [Code](https://github.com/Kunbyte-AI/OmniTry) ⭐ 271 | 🐛 7 | 🌐 Python | 📅 2025-08-29
+* OmniTry: Virtual Try-On Anything without Masks - [Paper](http://arxiv.org/abs/2508.13632), [Code](https://github.com/Kunbyte-AI/OmniTry) ⭐ 272 | 🐛 7 | 🌐 Python | 📅 2025-08-29
 * Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model, SIGGRAPH 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Makeup) ⭐ 231 | 🐛 4 | 🌐 Python | 📅 2024-07-14
 * Real-time Virtual-Try-On from a Single Example Image through Deep Inverse Graphics and Learned Differentiable Renderers, EUROGRAPHICS 2022 - [Paper](https://arxiv.org/pdf/2205.06305.pdf)
 * ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones, ACM Multimedia 2021 - [Paper](https://arxiv.org/pdf/2108.10515.pdf)
@@ -435,7 +435,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Demos
 
-* Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,984 | 🐛 55 | 📅 2024-07-26
+* Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,983 | 🐛 55 | 📅 2024-07-26
 * Outfit Anyone-in-the-Wild - [Demo](https://huggingface.co/spaces/selfit-camera/OutfitAnyone-in-the-Wild), [Docs](https://github.com/selfitcamera/Outfit-Anyone-in-the-Wild) ⭐ 268 | 🐛 8 | 🌐 Python | 📅 2024-05-30
 * Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 65 | 🐛 6 | 🌐 Python | 📅 2026-01-27
 * Looklet Dressing Room [Business](https://looklet.com), [Demo](https://dressing-room.looklet.com)
@@ -445,6 +445,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 * Adstronaut AI - on-model AI photoshoots, garment editor, color and fabric swap, and tech packs for fashion brands. [Business](https://adstronaut.net)
 * STIL.AI - AI-powered fashion design generator. Describe your dream garment and get a unique AI-generated design in seconds. Free preview with watermark, high-res purchase from 9 SEK. [Demo](https://stil.gracestack.se/text-till-mode.html), [Business](https://stil.gracestack.se)
 * Kolors Virtual - AI fashion virtual try-on that generates images and videos of models wearing your outfits. [Business/Demo](https://www.kolorsvirtual.com/)
+* InkCraft - tattoo virtual try-on: warps the design to the body surface in the user's own photo rather than compositing it flat; the mobile app adds a 3D body model built from that photo for checking placement from other angles. Browser demo, no signup. [Business](https://inkcraftapp.com), [Demo](https://inkcraftapp.com/try)
 
 ## Related Repositories
 
@@ -461,4 +462,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

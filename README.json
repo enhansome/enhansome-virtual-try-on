@@ -21,7 +21,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34112,
+                "stars": 34114,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8856,
+                "stars": 8857,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -160,7 +160,7 @@
                 "open_issues": 6,
                 "owner": "hywang2002",
                 "repo": "MV-VTON",
-                "stars": 296,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1788,7 +1788,7 @@
             "open_issues": 7,
             "owner": "Kunbyte-AI",
             "repo": "OmniTry",
-            "stars": 271,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2279,7 +2279,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5984,
+            "stars": 5983,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:02:46.030Z",
+    "last_updated": "2026-09-12T01:04:54.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2587,7 +2587,7 @@
       "id": 273734636,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-29T20:54:09Z",
+      "last_commit": "2026-09-11T23:21:52Z",
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
@@ -2615,7 +2615,7 @@
         "vton"
       ]
     },
-    "original_repository_sha": "f5b35fd9a3520ad5a0d4e8edb61ce359fcac16db",
+    "original_repository_sha": "93a51dca9be75b8a149039ca0ae0113305b64360",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
     "enhanced_repository_description": null,
     "title": "A Curated List of Awesome Virtual Try-on (VTON) Research! with stars"
