@@ -21,7 +21,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34114,
+                "stars": 34113,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1162,
+                "stars": 1161,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -855,10 +855,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-12-16T00:59:26Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1837,
+                "stars": 1836,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -1882,7 +1882,7 @@
             "open_issues": 30,
             "owner": "RenYurui",
             "repo": "Global-Flow-Local-Attention",
-            "stars": 567,
+            "stars": 568,
             "topics": [
               "cvpr2020",
               "spatial-transformer-network"
@@ -2231,7 +2231,7 @@
             "open_issues": 1,
             "owner": "zycliao",
             "repo": "TailorNet_dataset",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2279,7 +2279,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5983,
+            "stars": 5982,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2331,7 +2331,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2447,7 +2447,7 @@
             "open_issues": 7,
             "owner": "lzhbrian",
             "repo": "Cool-Fashion-Papers",
-            "stars": 635,
+            "stars": 636,
             "topics": [
               "artificial-intelligence",
               "awesome-list",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:04:54.404Z",
+    "last_updated": "2026-09-13T00:57:53.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
