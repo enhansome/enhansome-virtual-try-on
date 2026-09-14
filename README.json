@@ -21,7 +21,7 @@
                 "open_issues": 460,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34113,
+                "stars": 34112,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 72,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1836,
+                "stars": 1838,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -1302,7 +1302,7 @@
                 "open_issues": 3,
                 "owner": "yukangcao",
                 "repo": "GS-VTON",
-                "stars": 233,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1997,7 +1997,7 @@
             "open_issues": 1,
             "owner": "vt-vl-lab",
             "repo": "Guided-pix2pix",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "deep-learning",
               "gan",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:57:53.354Z",
+    "last_updated": "2026-09-14T01:00:46.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
