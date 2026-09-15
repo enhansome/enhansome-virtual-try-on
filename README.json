@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-02-25T09:49:39Z",
-                "open_issues": 460,
+                "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34112,
+                "stars": 34115,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7064,
+                "stars": 7065,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -307,7 +307,7 @@
                 "open_issues": 10,
                 "owner": "aimagelab",
                 "repo": "multimodal-garment-designer",
-                "stars": 444,
+                "stars": 445,
                 "topics": [
                   "computer-vision",
                   "diffusion-models",
@@ -472,7 +472,7 @@
                 "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -577,7 +577,7 @@
                 "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -671,7 +671,7 @@
                 "open_issues": 63,
                 "owner": "geyuying",
                 "repo": "PF-AFN",
-                "stars": 559,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6591,
+                "stars": 6592,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 72,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1838,
+                "stars": 1839,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -908,7 +908,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1345,
+                "stars": 1346,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -2358,7 +2358,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4420,
+            "stars": 4421,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:00:46.033Z",
+    "last_updated": "2026-09-15T01:25:09.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
