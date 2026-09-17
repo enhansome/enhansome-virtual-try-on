@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3421,
+                "stars": 3422,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7065,
+                "stars": 7066,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -160,7 +160,7 @@
                 "open_issues": 6,
                 "owner": "hywang2002",
                 "repo": "MV-VTON",
-                "stars": 297,
+                "stars": 298,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -671,7 +671,7 @@
                 "open_issues": 63,
                 "owner": "geyuying",
                 "repo": "PF-AFN",
-                "stars": 560,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6592,
+                "stars": 6594,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 72,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1839,
+                "stars": 1840,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -883,7 +883,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1544,
+                "stars": 1545,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -1767,7 +1767,7 @@
             "open_issues": 7,
             "owner": "Xiaojiu-z",
             "repo": "Stable-Hair",
-            "stars": 538,
+            "stars": 539,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:23:07.905Z",
+    "last_updated": "2026-09-17T01:22:23.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
