@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34114,
+                "stars": 34115,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3422,
+                "stars": 3421,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8858,
+                "stars": 8859,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -188,7 +188,7 @@
                 "open_issues": 1,
                 "owner": "rlawjdghek",
                 "repo": "StableVITON",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1162,
+                "stars": 1163,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6596,
+                "stars": 6597,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 72,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1843,
+                "stars": 1844,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -2248,7 +2248,7 @@
             "id": 599022715,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2024-07-29T12:30:30Z",
+            "last_commit": "2026-09-19T07:13:09Z",
             "open_issues": 4,
             "owner": "AemikaChow",
             "repo": "CLOTH4D",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:08:45.543Z",
+    "last_updated": "2026-09-20T01:04:43.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2591,7 +2591,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3174,
+      "stars": 3175,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
