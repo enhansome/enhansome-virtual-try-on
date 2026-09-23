@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34118,
+                "stars": 34121,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -883,7 +883,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1545,
+                "stars": 1546,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -2331,7 +2331,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2387,7 +2387,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1235,
+            "stars": 1236,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2481,7 +2481,7 @@
             "open_issues": 1,
             "owner": "Zhangjinso",
             "repo": "Awesome-pose-transfer",
-            "stars": 333,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2564,7 +2564,7 @@
             "open_issues": 0,
             "owner": "chenweikai",
             "repo": "Body_Reconstruction_References",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "code",
               "dataset",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:35:36.501Z",
+    "last_updated": "2026-09-23T01:28:29.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2591,7 +2591,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3178,
+      "stars": 3179,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
