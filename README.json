@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34123,
+                "stars": 34122,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8860,
+                "stars": 8861,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7065,
+                "stars": 7066,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6599,
+                "stars": 6602,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 72,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1848,
+                "stars": 1852,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -934,7 +934,7 @@
                 "open_issues": 22,
                 "owner": "bcmi",
                 "repo": "DCI-VTON-Virtual-Try-On",
-                "stars": 507,
+                "stars": 508,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1302,7 +1302,7 @@
                 "open_issues": 3,
                 "owner": "yukangcao",
                 "repo": "GS-VTON",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2153,7 +2153,7 @@
             "open_issues": 1,
             "owner": "siyuhuang",
             "repo": "PoseStylizer",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "person-image-generation",
               "pytorch"
@@ -2279,7 +2279,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5982,
+            "stars": 5981,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2358,7 +2358,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4424,
+            "stars": 4425,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T01:21:24.087Z",
+    "last_updated": "2026-09-25T01:27:13.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2591,7 +2591,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3182,
+      "stars": 3183,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
