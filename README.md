@@ -21,7 +21,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 #### ControlNet
 
 * [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,124 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
-* [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,421 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
+* [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,422 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
 
@@ -112,7 +112,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### CVPR 2021
 
-* VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization - [Paper](https://arxiv.org/pdf/2103.16874.pdf), [Code/Model](https://github.com/shadow2496/VITON-HD) ⭐ 1,164 | 🐛 0 | 🌐 Python | 📅 2025-04-27
+* VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization - [Paper](https://arxiv.org/pdf/2103.16874.pdf), [Code/Model](https://github.com/shadow2496/VITON-HD) ⭐ 1,166 | 🐛 0 | 🌐 Python | 📅 2025-04-27
 * Parser-Free Virtual Try-on via Distilling Appearance Flows - [Paper](https://arxiv.org/pdf/2103.04559.pdf), [Code/Data/Model](https://github.com/geyuying/PF-AFN) ⭐ 561 | 🐛 63 | 🌐 Python | 📅 2021-10-09
 * Disentangled Cycle Consistency for Highly-realistic Virtual Try-On - [Paper](https://arxiv.org/pdf/2103.09479.pdf), [Code/Data/Model](https://github.com/ChongjianGE/DCTON) ⭐ 103 | 🐛 9 | 🌐 Python | 📅 2023-06-08
 * Toward Accurate and Realistic Outfits Visualization with Attention to Details - [Paper](https://arxiv.org/abs/2106.06593), [Demo](https://revery.ai/demo.html)
@@ -436,7 +436,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Demos
 
 * Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,980 | 🐛 55 | 📅 2024-07-26
-* Outfit Anyone-in-the-Wild - [Demo](https://huggingface.co/spaces/selfit-camera/OutfitAnyone-in-the-Wild), [Docs](https://github.com/selfitcamera/Outfit-Anyone-in-the-Wild) ⭐ 268 | 🐛 8 | 🌐 Python | 📅 2024-05-30
+* Outfit Anyone-in-the-Wild - [Demo](https://huggingface.co/spaces/selfit-camera/OutfitAnyone-in-the-Wild), [Docs](https://github.com/selfitcamera/Outfit-Anyone-in-the-Wild) ⭐ 269 | 🐛 8 | 🌐 Python | 📅 2024-05-30
 * Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 70 | 🐛 6 | 🌐 Python | 📅 2026-01-27
 * Looklet Dressing Room [Business](https://looklet.com), [Demo](https://dressing-room.looklet.com)
 * TINT platform for virtual try-on of everything face-related (makeup, glasses, earrings, jewelry, etc.) [Business](https://www.banuba.com/solutions/e-commerce/virtual-try-on), [Demo](https://banuba.com/solutions/e-commerce/virtual-makeup-demo/).
@@ -450,16 +450,16 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Related Repositories
 
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,425 | 🐛 6 | 📅 2021-10-12
-* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,236 | 🐛 29 | 📅 2021-11-12
-* [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 665 | 🐛 2 | 📅 2024-01-01
-* [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 636 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
+* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,237 | 🐛 29 | 📅 2021-11-12
+* [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 666 | 🐛 2 | 📅 2024-01-01
+* [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 637 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
 * [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer) ⭐ 334 | 🐛 1 | 📅 2026-02-12
 * [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human) ⭐ 256 | 🐛 1 | 📅 2023-10-30
-* [Clothes-3D](https://github.com/lzhbrian/Clothes-3D) ⭐ 181 | 🐛 0 | 📅 2020-04-16
+* [Clothes-3D](https://github.com/lzhbrian/Clothes-3D) ⭐ 182 | 🐛 0 | 📅 2020-04-16
 * [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References) ⭐ 177 | 🐛 0 | 📅 2020-03-02
 
 #### Pull requests are welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
