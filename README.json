@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34121,
+                "stars": 34122,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7069,
+                "stars": 7070,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1167,
+                "stars": 1168,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -858,7 +858,7 @@
                 "open_issues": 72,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1858,
+                "stars": 1860,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -1809,7 +1809,7 @@
             "open_issues": 4,
             "owner": "Xiaojiu-z",
             "repo": "Stable-Makeup",
-            "stars": 232,
+            "stars": 233,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:15:38.013Z",
+    "last_updated": "2026-10-04T02:33:45.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2591,7 +2591,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3191,
+      "stars": 3192,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
