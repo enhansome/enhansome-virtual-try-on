@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34122,
+                "stars": 34123,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3422,
+                "stars": 3423,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8864,
+                "stars": 8862,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7071,
+                "stars": 7072,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -445,7 +445,7 @@
                 "open_issues": 64,
                 "owner": "sangyun884",
                 "repo": "HR-VITON",
-                "stars": 916,
+                "stars": 917,
                 "topics": [
                   "image-generation",
                   "image-synthesis",
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1168,
+                "stars": 1169,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -753,7 +753,7 @@
                 "open_issues": 23,
                 "owner": "sergeywong",
                 "repo": "cp-vton",
-                "stars": 531,
+                "stars": 530,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -809,7 +809,7 @@
                 "open_issues": 21,
                 "owner": "xthan",
                 "repo": "VITON",
-                "stars": 582,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -883,7 +883,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1549,
+                "stars": 1550,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -1302,7 +1302,7 @@
                 "open_issues": 3,
                 "owner": "yukangcao",
                 "repo": "GS-VTON",
-                "stars": 237,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2279,7 +2279,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5982,
+            "stars": 5981,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2331,7 +2331,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 75,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T01:57:02.870Z",
+    "last_updated": "2026-10-06T02:56:13.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2591,7 +2591,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3191,
+      "stars": 3192,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
