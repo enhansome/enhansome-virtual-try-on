@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8862,
+                "stars": 8863,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -753,7 +753,7 @@
                 "open_issues": 23,
                 "owner": "sergeywong",
                 "repo": "cp-vton",
-                "stars": 530,
+                "stars": 531,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -809,7 +809,7 @@
                 "open_issues": 21,
                 "owner": "xthan",
                 "repo": "VITON",
-                "stars": 581,
+                "stars": 582,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6605,
+                "stars": 6604,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2183,7 +2183,7 @@
             "open_issues": 4,
             "owner": "yumingj",
             "repo": "DeepFashion-MultiModal",
-            "stars": 663,
+            "stars": 664,
             "topics": [
               "siggraph2022"
             ]
@@ -2331,7 +2331,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:56:13.349Z",
+    "last_updated": "2026-10-06T10:57:35.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2591,7 +2591,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3192,
+      "stars": 3193,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
