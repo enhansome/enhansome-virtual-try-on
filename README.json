@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34124,
+                "stars": 34129,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7072,
+                "stars": 7071,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -472,7 +472,7 @@
                 "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -577,7 +577,7 @@
                 "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1167,
+                "stars": 1168,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6604,
+                "stars": 6605,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -883,7 +883,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1550,
+                "stars": 1551,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -894,8 +894,8 @@
             },
             {
               "node_type": "item",
-              "title": "IMAGDressing-v1: Customizable Virtual Dressing - Demo",
-              "description": ", code, Project",
+              "title": "IMAGDressing-v1: Customizable Virtual Dressing, AAAI 2025 - Paper",
+              "description": ", Demo, Code, Project",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:20:46.265Z",
+    "last_updated": "2026-10-08T02:40:56.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2587,11 +2587,11 @@
       "id": 273734636,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-27T08:17:52Z",
+      "last_commit": "2026-10-07T21:10:17Z",
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3194,
+      "stars": 3195,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
@@ -2615,7 +2615,7 @@
         "vton"
       ]
     },
-    "original_repository_sha": "1eefb2e785c215acca0cfdaf17ebb73e201d614f",
+    "original_repository_sha": "968cd51ab2488153c3e6f771934a9dfc6de2d3db",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
     "enhanced_repository_description": null,
     "title": "A Curated List of Awesome Virtual Try-on (VTON) Research! with stars"
