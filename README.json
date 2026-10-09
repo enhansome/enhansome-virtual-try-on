@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34129,
+                "stars": 34130,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3422,
+                "stars": 3423,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7071,
+                "stars": 7072,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -720,7 +720,7 @@
                 "open_issues": 9,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion_Try_On",
-                "stars": 885,
+                "stars": 886,
                 "topics": [
                   "acgpn",
                   "deepfashion",
@@ -858,7 +858,7 @@
                 "open_issues": 72,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1865,
+                "stars": 1867,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -2415,7 +2415,7 @@
             "open_issues": 2,
             "owner": "3DFaceBody",
             "repo": "awesome-3dbody-papers",
-            "stars": 666,
+            "stars": 667,
             "topics": [
               "3d-body",
               "3d-pose",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:40:56.174Z",
+    "last_updated": "2026-10-09T02:55:37.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
