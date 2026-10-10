@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34130,
+                "stars": 34131,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8865,
+                "stars": 8866,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -160,7 +160,7 @@
                 "open_issues": 6,
                 "owner": "hywang2002",
                 "repo": "MV-VTON",
-                "stars": 297,
+                "stars": 298,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -389,7 +389,7 @@
                 "open_issues": 62,
                 "owner": "xiezhy6",
                 "repo": "GP-VTON",
-                "stars": 507,
+                "stars": 508,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1168,
+                "stars": 1169,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -753,7 +753,7 @@
                 "open_issues": 23,
                 "owner": "sergeywong",
                 "repo": "cp-vton",
-                "stars": 531,
+                "stars": 532,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6605,
+                "stars": 6606,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 72,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1867,
+                "stars": 1869,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -955,7 +955,7 @@
                 "open_issues": 28,
                 "owner": "miccunifi",
                 "repo": "ladi-vton",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "acmmm",
                   "acmmm2023",
@@ -1302,7 +1302,7 @@
                 "open_issues": 3,
                 "owner": "yukangcao",
                 "repo": "GS-VTON",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2183,7 +2183,7 @@
             "open_issues": 4,
             "owner": "yumingj",
             "repo": "DeepFashion-MultiModal",
-            "stars": 664,
+            "stars": 665,
             "topics": [
               "siggraph2022"
             ]
@@ -2279,7 +2279,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5982,
+            "stars": 5981,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2415,7 +2415,7 @@
             "open_issues": 2,
             "owner": "3DFaceBody",
             "repo": "awesome-3dbody-papers",
-            "stars": 667,
+            "stars": 665,
             "topics": [
               "3d-body",
               "3d-pose",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:55:37.586Z",
+    "last_updated": "2026-10-10T02:17:49.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2587,7 +2587,7 @@
       "id": 273734636,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-07T21:10:17Z",
+      "last_commit": "2026-10-09T21:27:50Z",
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
@@ -2615,7 +2615,7 @@
         "vton"
       ]
     },
-    "original_repository_sha": "968cd51ab2488153c3e6f771934a9dfc6de2d3db",
+    "original_repository_sha": "f04c7a5204a9bb99ca13091ea59fc4a61191fb75",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
     "enhanced_repository_description": null,
     "title": "A Curated List of Awesome Virtual Try-on (VTON) Research! with stars"
