@@ -21,12 +21,12 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,131 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
-* [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,423 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,130 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,424 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
 
-* [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,866 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
+* [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,867 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
 * [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,072 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
 
 ## Image-based (2D) Virtual Try-on
@@ -464,7 +464,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 * DeepFashion MultiModal - [Download](https://github.com/yumingj/DeepFashion-MultiModal) ⭐ 665 | 🐛 4 | 📅 2023-01-18
 * StreetTryOn - [Download](https://github.com/cuiaiyu/street-tryon-benchmark) ⭐ 160 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-19
-* TailorNet Dataset - [Download](https://github.com/zycliao/TailorNet_dataset) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2026-02-09, [Project](http://virtualhumans.mpi-inf.mpg.de/tailornet/)
+* TailorNet Dataset - [Download](https://github.com/zycliao/TailorNet_dataset) ⭐ 156 | 🐛 1 | 🌐 Python | 📅 2026-02-09, [Project](http://virtualhumans.mpi-inf.mpg.de/tailornet/)
 * CLOTH4D, CVPR 2023 - [Download](https://github.com/AemikaChow/CLOTH4D) ⭐ 81 | 🐛 4 | 🌐 Python | 📅 2026-09-19
 * MV-Fashion, CVPR 2026 - [Project](https://hunorlaczko.github.io/MV-Fashion/)
 * Garments2Look, CVPR 2026 - [Project](https://artmesciencelab.github.io/Garments2Look/)
@@ -493,7 +493,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 * Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,981 | 🐛 55 | 📅 2024-07-26
 * Outfit Anyone-in-the-Wild - [Demo](https://huggingface.co/spaces/selfit-camera/OutfitAnyone-in-the-Wild), [Docs](https://github.com/selfitcamera/Outfit-Anyone-in-the-Wild) ⭐ 269 | 🐛 8 | 🌐 Python | 📅 2024-05-30
-* Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 78 | 🐛 6 | 🌐 Python | 📅 2026-01-27
+* Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 79 | 🐛 6 | 🌐 Python | 📅 2026-01-27
 * Looklet Dressing Room [Business](https://looklet.com), [Demo](https://dressing-room.looklet.com)
 * TINT platform for virtual try-on of everything face-related (makeup, glasses, earrings, jewelry, etc.) [Business](https://www.banuba.com/solutions/e-commerce/virtual-try-on), [Demo](https://banuba.com/solutions/e-commerce/virtual-makeup-demo/).
 * Virtual Try On AI - [Business/Demo](https://aitryon.art/)
@@ -509,7 +509,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,427 | 🐛 6 | 📅 2021-10-12
 * [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,240 | 🐛 29 | 📅 2021-11-12
-* [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 665 | 🐛 2 | 📅 2024-01-01
+* [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 664 | 🐛 2 | 📅 2024-01-01
 * [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 636 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
 * [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer) ⭐ 334 | 🐛 1 | 📅 2026-02-12
 * [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human) ⭐ 256 | 🐛 1 | 📅 2023-10-30
@@ -520,4 +520,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
