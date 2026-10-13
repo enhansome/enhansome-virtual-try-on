@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34130,
+                "stars": 34125,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3424,
+                "stars": 3423,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7072,
+                "stars": 7073,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -303,7 +303,7 @@
                 "id": 623453211,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2024-03-28T17:37:43Z",
+                "last_commit": "2026-10-12T18:36:58Z",
                 "open_issues": 10,
                 "owner": "aimagelab",
                 "repo": "multimodal-garment-designer",
@@ -858,7 +858,7 @@
                 "open_issues": 72,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1868,
+                "stars": 1869,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -908,7 +908,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1348,
+                "stars": 1347,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -1809,7 +1809,7 @@
             "open_issues": 4,
             "owner": "Xiaojiu-z",
             "repo": "Stable-Makeup",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2279,7 +2279,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5981,
+            "stars": 5979,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2387,7 +2387,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1240,
+            "stars": 1241,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2447,7 +2447,7 @@
             "open_issues": 7,
             "owner": "lzhbrian",
             "repo": "Cool-Fashion-Papers",
-            "stars": 636,
+            "stars": 637,
             "topics": [
               "artificial-intelligence",
               "awesome-list",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:20:42.258Z",
+    "last_updated": "2026-10-13T03:31:09.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
