@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34125,
+                "stars": 34127,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7073,
+                "stars": 7072,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6606,
+                "stars": 6608,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -883,7 +883,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1551,
+                "stars": 1550,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -1836,7 +1836,7 @@
             "open_issues": 37,
             "owner": "svip-lab",
             "repo": "impersonator",
-            "stars": 1718,
+            "stars": 1719,
             "topics": [
               "gan",
               "pose",
@@ -2252,7 +2252,7 @@
             "open_issues": 4,
             "owner": "AemikaChow",
             "repo": "CLOTH4D",
-            "stars": 81,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2331,7 +2331,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 80,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2523,7 +2523,7 @@
             "open_issues": 0,
             "owner": "lzhbrian",
             "repo": "Clothes-3D",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "3d",
               "awesome",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:31:09.098Z",
+    "last_updated": "2026-10-14T01:52:32.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2587,11 +2587,11 @@
       "id": 273734636,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-09T21:27:50Z",
+      "last_commit": "2026-10-13T21:09:17Z",
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3196,
+      "stars": 3198,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
@@ -2615,7 +2615,7 @@
         "vton"
       ]
     },
-    "original_repository_sha": "f04c7a5204a9bb99ca13091ea59fc4a61191fb75",
+    "original_repository_sha": "1e9a1ff3750b16ff981a351f9de3720810a0ea7a",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
     "enhanced_repository_description": null,
     "title": "A Curated List of Awesome Virtual Try-on (VTON) Research! with stars"
