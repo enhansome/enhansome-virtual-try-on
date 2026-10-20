@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34121,
+                "stars": 34124,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8868,
+                "stars": 8869,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7070,
+                "stars": 7072,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -855,10 +855,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-12-16T00:59:26Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1875,
+                "stars": 1877,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -908,7 +908,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1346,
+                "stars": 1345,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -1008,7 +1008,7 @@
                 "open_issues": 2,
                 "owner": "cuiaiyu",
                 "repo": "street-tryon-benchmark",
-                "stars": 160,
+                "stars": 159,
                 "topics": [
                   "image-editing",
                   "image-generation",
@@ -1809,7 +1809,7 @@
             "open_issues": 4,
             "owner": "Xiaojiu-z",
             "repo": "Stable-Makeup",
-            "stars": 234,
+            "stars": 233,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1976,7 +1976,7 @@
             "open_issues": 5,
             "owner": "YanzuoLu",
             "repo": "CFLD",
-            "stars": 242,
+            "stars": 241,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2206,7 +2206,7 @@
             "open_issues": 2,
             "owner": "cuiaiyu",
             "repo": "street-tryon-benchmark",
-            "stars": 160,
+            "stars": 159,
             "topics": [
               "image-editing",
               "image-generation",
@@ -2358,7 +2358,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4430,
+            "stars": 4431,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2502,7 +2502,7 @@
             "open_issues": 1,
             "owner": "lijiaman",
             "repo": "awesome-3d-human",
-            "stars": 256,
+            "stars": 257,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2523,7 +2523,7 @@
             "open_issues": 0,
             "owner": "lzhbrian",
             "repo": "Clothes-3D",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "3d",
               "awesome",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:11:51.638Z",
+    "last_updated": "2026-10-20T01:47:15.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2591,7 +2591,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3202,
+      "stars": 3203,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
