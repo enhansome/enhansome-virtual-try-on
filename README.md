@@ -21,8 +21,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,124 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
-* [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,424 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,129 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,426 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
 
@@ -124,7 +124,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ECCV 2022
 
-* High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions - [Paper](https://arxiv.org/abs/2206.14180), [Code/Model](https://github.com/sangyun884/HR-VITON) ⭐ 917 | 🐛 64 | 🌐 Python | 📅 2024-12-31
+* High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions - [Paper](https://arxiv.org/abs/2206.14180), [Code/Model](https://github.com/sangyun884/HR-VITON) ⭐ 918 | 🐛 64 | 🌐 Python | 📅 2024-12-31
 * Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://arxiv.org/pdf/2204.08532.pdf), [Code/Data](https://github.com/aimagelab/dress-code) ⭐ 663 | 🐛 16 | 🌐 Python | 📅 2024-12-12
 * Single Stage Virtual Try-on via Deformable Attention Flows - [Paper](https://arxiv.org/abs/2207.09161), [Code/Model](https://github.com/OFA-Sys/DAFlow) ⭐ 127 | 🐛 12 | 🌐 Python | 📅 2022-10-09
 
@@ -148,7 +148,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### CVPR 2021
 
-* VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization - [Paper](https://arxiv.org/pdf/2103.16874.pdf), [Code/Model](https://github.com/shadow2496/VITON-HD) ⭐ 1,170 | 🐛 0 | 🌐 Python | 📅 2025-04-27
+* VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization - [Paper](https://arxiv.org/pdf/2103.16874.pdf), [Code/Model](https://github.com/shadow2496/VITON-HD) ⭐ 1,171 | 🐛 0 | 🌐 Python | 📅 2025-04-27
 * Parser-Free Virtual Try-on via Distilling Appearance Flows - [Paper](https://arxiv.org/pdf/2103.04559.pdf), [Code/Data/Model](https://github.com/geyuying/PF-AFN) ⭐ 560 | 🐛 63 | 🌐 Python | 📅 2021-10-09
 * Disentangled Cycle Consistency for Highly-realistic Virtual Try-On - [Paper](https://arxiv.org/pdf/2103.09479.pdf), [Code/Data/Model](https://github.com/ChongjianGE/DCTON) ⭐ 103 | 🐛 9 | 🌐 Python | 📅 2023-06-08
 * Toward Accurate and Realistic Outfits Visualization with Attention to Details - [Paper](https://arxiv.org/abs/2106.06593), [Demo](https://revery.ai/demo.html)
@@ -197,7 +197,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 #### Others
 
 * OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,607 | 🐛 88 | 🌐 Python | 📅 2024-05-13
-* CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON) ⭐ 1,877 | 🐛 73 | 🌐 Python | 📅 2025-12-16
+* CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON) ⭐ 1,878 | 🐛 73 | 🌐 Python | 📅 2025-12-16
 * Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing) ⭐ 1,549 | 🐛 63 | 🌐 Python | 📅 2024-07-29
 * IMAGDressing-v1: Customizable Virtual Dressing, AAAI 2025 - [Paper](https://doi.org/10.1609/aaai.v39i7.32729), [Demo](https://sf.dictdoc.site/), [Code](https://github.com/muzishen/IMAGDressing) ⭐ 1,345 | 🐛 10 | 🌐 Python | 📅 2025-09-30, [Project](https://imagdressing.github.io/)
 * Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2308.06101), [Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) ⭐ 507 | 🐛 22 | 🌐 Python | 📅 2023-12-06
@@ -430,10 +430,10 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Pose-Guided Human Synthesis
 
 * Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis, ICCV 2019 - [Paper](https://arxiv.org/pdf/1909.12224.pdf), [Code](https://github.com/svip-lab/impersonator) ⭐ 1,719 | 🐛 37 | 🌐 Python | 📅 2022-06-21
-* Progressive Pose Attention for Person Image Generation, CVPR 2019 - [Paper](https://arxiv.org/pdf/1904.03349.pdf), [Code](https://github.com/tengteng95/Pose-Transfer) ⭐ 741 | 🐛 40 | 🌐 Python | 📅 2023-02-11
+* Progressive Pose Attention for Person Image Generation, CVPR 2019 - [Paper](https://arxiv.org/pdf/1904.03349.pdf), [Code](https://github.com/tengteng95/Pose-Transfer) ⭐ 742 | 🐛 40 | 🌐 Python | 📅 2023-02-11
 * Deep Image Spatial Transformation for Person Image Generation, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.00696v2.pdf), [Code](https://github.com/RenYurui/Global-Flow-Local-Attention) ⭐ 568 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2022-09-03
 * A Variational U-Net for Conditional Appearance and Shape Generation, CVPR 2018 - [Paper](https://arxiv.org/pdf/1804.04694.pdf), [Code](https://github.com/CompVis/vunet) ⭐ 507 | 🐛 12 | 🌐 Python | 📅 2020-12-18
-* Controllable Person Image Synthesis with Attribute-Decomposed GAN, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.12267.pdf), [Code](https://github.com/menyifang/ADGAN) ⭐ 483 | 🐛 37 | 🌐 Python | 📅 2022-11-16
+* Controllable Person Image Synthesis with Attribute-Decomposed GAN, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.12267.pdf), [Code](https://github.com/menyifang/ADGAN) ⭐ 484 | 🐛 37 | 🌐 Python | 📅 2022-11-16
 * Pose guided person image generation, NeurIPS 2017 - [Paper](https://arxiv.org/pdf/1705.09368.pdf), [Code](https://github.com/charliememory/Pose-Guided-Person-Image-Generation) ⭐ 303 | 🐛 18 | 🌐 Python | 📅 2023-08-11
 * Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis, CVPR 2024 - [Code](https://github.com/YanzuoLu/CFLD) ⭐ 241 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-01-22
 * Guided Image-to-Image Translation with Bi-Directional Feature Transformation, ICCV 2019 - [Paper](https://arxiv.org/pdf/1910.11328v1.pdf), [Code](https://github.com/vt-vl-lab/Guided-pix2pix) ⭐ 199 | 🐛 1 | 🌐 Python | 📅 2024-03-10
@@ -508,7 +508,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Related Repositories
 
-* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,431 | 🐛 6 | 📅 2021-10-12
+* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,432 | 🐛 6 | 📅 2021-10-12
 * [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,241 | 🐛 29 | 📅 2021-11-12
 * [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 664 | 🐛 2 | 📅 2024-01-01
 * [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 637 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
@@ -521,4 +521,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
