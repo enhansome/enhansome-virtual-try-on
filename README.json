@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34129,
+                "stars": 34128,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8869,
+                "stars": 8870,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6607,
+                "stars": 6605,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2331,7 +2331,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 85,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2358,7 +2358,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4432,
+            "stars": 4433,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T01:32:17.539Z",
+    "last_updated": "2026-10-22T01:28:17.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
