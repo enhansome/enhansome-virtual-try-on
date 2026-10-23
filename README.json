@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7072,
+                "stars": 7071,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -472,7 +472,7 @@
                 "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 663,
+                "stars": 664,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -577,7 +577,7 @@
                 "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 663,
+                "stars": 664,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1878,
+                "stars": 1879,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -883,7 +883,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1549,
+                "stars": 1548,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -2331,7 +2331,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2358,7 +2358,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4433,
+            "stars": 4434,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T01:28:17.414Z",
+    "last_updated": "2026-10-23T01:27:16.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2591,7 +2591,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3204,
+      "stars": 3205,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
