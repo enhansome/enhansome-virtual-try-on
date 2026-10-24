@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34128,
+                "stars": 34129,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6605,
+                "stars": 6604,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1879,
+                "stars": 1880,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -1813,6 +1813,44 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HairPort: In-context 3D-aware Hair Import and Transfer for Images, SIGGRAPH 2026 - Paper",
+          "description": ", Code, Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🔥 (SIGGRAPH 2026) 3D-aware hairstyle transfer for images: in-context bald conversion, pose-aligned hair import, and identity-preserving synthesis.",
+            "homepage": "https://deepmancer.github.io/HairPort/",
+            "id": 1142042671,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-07-17T19:50:44Z",
+            "open_issues": 3,
+            "owner": "deepmancer",
+            "repo": "HairPort",
+            "stars": 43,
+            "topics": [
+              "3d-reconstruction",
+              "blender",
+              "computer-graphics",
+              "computer-vision",
+              "diffusion-models",
+              "flux",
+              "generative-ai",
+              "hair-segmentation",
+              "hairstyle",
+              "huggingface",
+              "image-editing",
+              "image-synthesis",
+              "lora",
+              "pytorch",
+              "research-paper",
+              "siggraph"
+            ]
+          },
+          "first_seen": "2026-10-24T01:33:21.258Z"
         }
       ],
       "title": "Non-clothing Virtual Try-on"
@@ -2183,7 +2221,7 @@
             "open_issues": 4,
             "owner": "yumingj",
             "repo": "DeepFashion-MultiModal",
-            "stars": 666,
+            "stars": 667,
             "topics": [
               "siggraph2022"
             ]
@@ -2387,7 +2425,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1241,
+            "stars": 1242,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2579,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:27:16.818Z",
+    "last_updated": "2026-10-24T01:33:21.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2587,11 +2625,11 @@
       "id": 273734636,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-13T21:09:17Z",
+      "last_commit": "2026-10-23T06:36:28Z",
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3205,
+      "stars": 3207,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
@@ -2615,7 +2653,7 @@
         "vton"
       ]
     },
-    "original_repository_sha": "1e9a1ff3750b16ff981a351f9de3720810a0ea7a",
+    "original_repository_sha": "47afd10142437808fb65a600ac5e5710715e3ef4",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
     "enhanced_repository_description": null,
     "title": "A Curated List of Awesome Virtual Try-on (VTON) Research! with stars"
