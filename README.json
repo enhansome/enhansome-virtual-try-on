@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34129,
+                "stars": 34131,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8870,
+                "stars": 8872,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1171,
+                "stars": 1172,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -720,7 +720,7 @@
                 "open_issues": 9,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion_Try_On",
-                "stars": 886,
+                "stars": 887,
                 "topics": [
                   "acgpn",
                   "deepfashion",
@@ -1330,7 +1330,7 @@
                 "open_issues": 19,
                 "owner": "River-Zhang",
                 "repo": "SIFU",
-                "stars": 275,
+                "stars": 276,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -1562,7 +1562,7 @@
                 "open_issues": 3,
                 "owner": "KiseKloset",
                 "repo": "DM-VTON",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "knowledge-distillation",
                   "pytorch",
@@ -1830,7 +1830,7 @@
             "open_issues": 3,
             "owner": "deepmancer",
             "repo": "HairPort",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "3d-reconstruction",
               "blender",
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:33:21.258Z",
+    "last_updated": "2026-10-25T01:06:13.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2629,7 +2629,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3207,
+      "stars": 3208,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
