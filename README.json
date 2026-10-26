@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34131,
+                "stars": 34137,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3426,
+                "stars": 3425,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8872,
+                "stars": 8874,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -469,7 +469,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-12-12T10:00:06Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "aimagelab",
                 "repo": "dress-code",
                 "stars": 664,
@@ -574,7 +574,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-12-12T10:00:06Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "aimagelab",
                 "repo": "dress-code",
                 "stars": 664,
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1172,
+                "stars": 1173,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1880,
+                "stars": 1883,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -908,7 +908,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1345,
+                "stars": 1344,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -2269,7 +2269,7 @@
             "open_issues": 1,
             "owner": "zycliao",
             "repo": "TailorNet_dataset",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2317,7 +2317,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5980,
+            "stars": 5981,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:06:13.270Z",
+    "last_updated": "2026-10-26T01:07:09.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2629,7 +2629,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3208,
+      "stars": 3211,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
