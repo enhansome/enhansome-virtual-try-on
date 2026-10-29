@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34138,
+                "stars": 34137,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8873,
+                "stars": 8872,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7071,
+                "stars": 7070,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -160,7 +160,7 @@
                 "open_issues": 6,
                 "owner": "hywang2002",
                 "repo": "MV-VTON",
-                "stars": 298,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6605,
+                "stars": 6603,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1886,
+                "stars": 1885,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -908,7 +908,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1344,
+                "stars": 1342,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -1788,7 +1788,7 @@
             "open_issues": 7,
             "owner": "Kunbyte-AI",
             "repo": "OmniTry",
-            "stars": 274,
+            "stars": 273,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2369,7 +2369,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:10:43.522Z",
+    "last_updated": "2026-10-29T02:23:41.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
