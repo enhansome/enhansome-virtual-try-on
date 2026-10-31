@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34135,
+                "stars": 34137,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8872,
+                "stars": 8873,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -469,7 +469,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-12-12T10:00:06Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
                 "stars": 664,
@@ -574,7 +574,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-12-12T10:00:06Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
                 "stars": 664,
@@ -753,7 +753,7 @@
                 "open_issues": 23,
                 "owner": "sergeywong",
                 "repo": "cp-vton",
-                "stars": 532,
+                "stars": 531,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6602,
+                "stars": 6604,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1886,
+                "stars": 1887,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -908,7 +908,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1342,
+                "stars": 1343,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -1874,7 +1874,7 @@
             "open_issues": 37,
             "owner": "svip-lab",
             "repo": "impersonator",
-            "stars": 1719,
+            "stars": 1720,
             "topics": [
               "gan",
               "pose",
@@ -2369,7 +2369,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2425,7 +2425,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:34:14.015Z",
+    "last_updated": "2026-10-31T02:18:21.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
