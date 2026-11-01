@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34137,
+                "stars": 34141,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8873,
+                "stars": 8874,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6604,
+                "stars": 6605,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1887,
+                "stars": 1888,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -883,7 +883,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1546,
+                "stars": 1547,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -908,7 +908,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1343,
+                "stars": 1344,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -1788,7 +1788,7 @@
             "open_issues": 7,
             "owner": "Kunbyte-AI",
             "repo": "OmniTry",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:18:21.028Z",
+    "last_updated": "2026-11-01T02:10:02.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2629,7 +2629,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3213,
+      "stars": 3214,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
