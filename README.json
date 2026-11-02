@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34141,
+                "stars": 34142,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3425,
+                "stars": 3424,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8874,
+                "stars": 8873,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6605,
+                "stars": 6606,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1888,
+                "stars": 1894,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -2317,7 +2317,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5982,
+            "stars": 5981,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2369,7 +2369,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2396,7 +2396,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4434,
+            "stars": 4435,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:10:02.915Z",
+    "last_updated": "2026-11-02T02:27:35.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2625,7 +2625,7 @@
       "id": 273734636,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-23T06:36:28Z",
+      "last_commit": "2026-11-01T09:16:13Z",
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
@@ -2653,7 +2653,7 @@
         "vton"
       ]
     },
-    "original_repository_sha": "47afd10142437808fb65a600ac5e5710715e3ef4",
+    "original_repository_sha": "4eb0cc1ba5f6ddc70f8a1f36ee30037d4b84d7b2",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
     "enhanced_repository_description": null,
     "title": "A Curated List of Awesome Virtual Try-on (VTON) Research! with stars"
