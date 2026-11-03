@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34142,
+                "stars": 34146,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8873,
+                "stars": 8874,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1173,
+                "stars": 1174,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1894,
+                "stars": 1901,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -2014,7 +2014,7 @@
             "open_issues": 5,
             "owner": "YanzuoLu",
             "repo": "CFLD",
-            "stars": 242,
+            "stars": 243,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2103,7 +2103,7 @@
             "open_issues": 5,
             "owner": "muzishen",
             "repo": "IMAGPose",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "aigc",
               "diffusion-models",
@@ -2338,7 +2338,7 @@
             "open_issues": 8,
             "owner": "selfitcamera",
             "repo": "Outfit-Anyone-in-the-Wild",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "3d",
               "ai",
@@ -2396,7 +2396,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4435,
+            "stars": 4436,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:27:35.303Z",
+    "last_updated": "2026-11-03T03:54:53.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
