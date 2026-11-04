@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34146,
+                "stars": 34150,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8874,
+                "stars": 8875,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -472,7 +472,7 @@
                 "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -577,7 +577,7 @@
                 "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6606,
+                "stars": 6609,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1901,
+                "stars": 1903,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -1008,7 +1008,7 @@
                 "open_issues": 2,
                 "owner": "cuiaiyu",
                 "repo": "street-tryon-benchmark",
-                "stars": 159,
+                "stars": 160,
                 "topics": [
                   "image-editing",
                   "image-generation",
@@ -1788,7 +1788,7 @@
             "open_issues": 7,
             "owner": "Kunbyte-AI",
             "repo": "OmniTry",
-            "stars": 274,
+            "stars": 273,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2244,7 +2244,7 @@
             "open_issues": 2,
             "owner": "cuiaiyu",
             "repo": "street-tryon-benchmark",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "image-editing",
               "image-generation",
@@ -2317,7 +2317,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5981,
+            "stars": 5980,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2369,7 +2369,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 94,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2396,7 +2396,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4436,
+            "stars": 4437,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2485,7 +2485,7 @@
             "open_issues": 7,
             "owner": "lzhbrian",
             "repo": "Cool-Fashion-Papers",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "artificial-intelligence",
               "awesome-list",
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:54:53.310Z",
+    "last_updated": "2026-11-04T02:59:31.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2629,7 +2629,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3214,
+      "stars": 3216,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
