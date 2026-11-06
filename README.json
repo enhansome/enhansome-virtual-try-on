@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8875,
+                "stars": 8876,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7071,
+                "stars": 7073,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1174,
+                "stars": 1175,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -1184,7 +1184,7 @@
                 "open_issues": 3,
                 "owner": "NerdFNY",
                 "repo": "PGVTON",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1737,7 +1737,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-04T09:56:05Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "AMAP-ML",
             "repo": "Eevee",
             "stars": 80,
@@ -2369,7 +2369,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 97,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:28:07.501Z",
+    "last_updated": "2026-11-06T03:24:00.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2629,7 +2629,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3218,
+      "stars": 3222,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
