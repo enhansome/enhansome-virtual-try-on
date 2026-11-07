@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34151,
+                "stars": 34150,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -671,7 +671,7 @@
                 "open_issues": 63,
                 "owner": "geyuying",
                 "repo": "PF-AFN",
-                "stars": 559,
+                "stars": 558,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -753,7 +753,7 @@
                 "open_issues": 23,
                 "owner": "sergeywong",
                 "repo": "cp-vton",
-                "stars": 531,
+                "stars": 530,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1562,7 +1562,7 @@
                 "open_issues": 3,
                 "owner": "KiseKloset",
                 "repo": "DM-VTON",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "knowledge-distillation",
                   "pytorch",
@@ -2369,7 +2369,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2396,7 +2396,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4437,
+            "stars": 4438,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:24:00.023Z",
+    "last_updated": "2026-11-07T02:45:57.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2629,7 +2629,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3222,
+      "stars": 3221,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
