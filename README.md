@@ -21,13 +21,13 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,150 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,152 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
 * [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,423 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
 
 * [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,876 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
-* [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,073 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
+* [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,074 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
 
 ## Image-based (2D) Virtual Try-on
 
@@ -196,8 +196,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### Others
 
-* OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,611 | 🐛 88 | 🌐 Python | 📅 2024-05-13
-* CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON) ⭐ 1,906 | 🐛 73 | 🌐 Python | 📅 2025-12-16
+* OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,613 | 🐛 88 | 🌐 Python | 📅 2024-05-13
+* CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON) ⭐ 1,908 | 🐛 73 | 🌐 Python | 📅 2025-12-16
 * Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing) ⭐ 1,547 | 🐛 63 | 🌐 Python | 📅 2024-07-29
 * IMAGDressing-v1: Customizable Virtual Dressing, AAAI 2025 - [Paper](https://doi.org/10.1609/aaai.v39i7.32729), [Demo](https://sf.dictdoc.site/), [Code](https://github.com/muzishen/IMAGDressing) ⭐ 1,344 | 🐛 10 | 🌐 Python | 📅 2025-09-30, [Project](https://imagdressing.github.io/)
 * Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2308.06101), [Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) ⭐ 507 | 🐛 22 | 🌐 Python | 📅 2023-12-06
@@ -391,7 +391,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Video Virtual Try-on
 
 * ClothFormer: Taming Video Virtual Try-on in All Module, CVPR 2022 - [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_ClothFormer_Taming_Video_Virtual_Try-On_in_All_Module_CVPR_2022_paper.pdf), [Code](https://github.com/luxiangju-PersonAI/ClothFormer) ⭐ 130 | 🐛 5 | 📅 2022-04-27, [Project](https://cloth-former.github.io/)
-* Eevee: Towards Close-up High-resolution Video-based Virtual Try-on, CVPR 2026 - [Project](https://github.com/AMAP-ML/Eevee) ⭐ 80 | 🐛 4 | 🌐 Python | 📅 2026-09-04
+* Eevee: Towards Close-up High-resolution Video-based Virtual Try-on, CVPR 2026 - [Project](https://github.com/AMAP-ML/Eevee) ⭐ 81 | 🐛 4 | 🌐 Python | 📅 2026-09-04
 * Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction, CVPR 2025 - [Paper](https://doi.org/10.1109/cvpr52734.2025.02109)
 * Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image, NeurIPS 2025 - [Paper](https://doi.org/10.52202/085713-5188)
 * Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos, ACM Multimedia 2024 - [Paper](https://doi.org/10.1145/3664647.3680836)
@@ -409,7 +409,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Non-clothing Virtual Try-on
 
-* Stable-Hair: Real-World Hair Transfer via Diffusion Model, AAAI 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Hair) ⭐ 540 | 🐛 7 | 🌐 Python | 📅 2025-03-14
+* Stable-Hair: Real-World Hair Transfer via Diffusion Model, AAAI 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Hair) ⭐ 539 | 🐛 7 | 🌐 Python | 📅 2025-03-14
 * OmniTry: Virtual Try-On Anything without Masks - [Paper](http://arxiv.org/abs/2508.13632), [Code](https://github.com/Kunbyte-AI/OmniTry) ⭐ 273 | 🐛 7 | 🌐 Python | 📅 2025-08-29
 * Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model, SIGGRAPH 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Makeup) ⭐ 233 | 🐛 4 | 🌐 Python | 📅 2024-07-14
 * HairPort: In-context 3D-aware Hair Import and Transfer for Images, SIGGRAPH 2026 - [Paper](https://arxiv.org/abs/2606.12562), [Code](https://github.com/deepmancer/HairPort) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-07-17, [Project](https://deepmancer.github.io/HairPort/)
@@ -493,9 +493,9 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Demos
 
-* Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,980 | 🐛 55 | 📅 2024-07-26
+* Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,979 | 🐛 55 | 📅 2024-07-26
 * Outfit Anyone-in-the-Wild - [Demo](https://huggingface.co/spaces/selfit-camera/OutfitAnyone-in-the-Wild), [Docs](https://github.com/selfitcamera/Outfit-Anyone-in-the-Wild) ⭐ 269 | 🐛 8 | 🌐 Python | 📅 2024-05-30
-* Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 100 | 🐛 6 | 🌐 Python | 📅 2026-01-27
+* Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 101 | 🐛 6 | 🌐 Python | 📅 2026-01-27
 * Looklet Dressing Room [Business](https://looklet.com), [Demo](https://dressing-room.looklet.com)
 * TINT platform for virtual try-on of everything face-related (makeup, glasses, earrings, jewelry, etc.) [Business](https://www.banuba.com/solutions/e-commerce/virtual-try-on), [Demo](https://banuba.com/solutions/e-commerce/virtual-makeup-demo/).
 * Virtual Try On AI - [Business/Demo](https://aitryon.art/)
@@ -524,4 +524,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
