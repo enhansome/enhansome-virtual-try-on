@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34152,
+                "stars": 34153,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8876,
+                "stars": 8875,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7074,
+                "stars": 7073,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -188,7 +188,7 @@
                 "open_issues": 1,
                 "owner": "rlawjdghek",
                 "repo": "StableVITON",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -445,7 +445,7 @@
                 "open_issues": 64,
                 "owner": "sangyun884",
                 "repo": "HR-VITON",
-                "stars": 917,
+                "stars": 918,
                 "topics": [
                   "image-generation",
                   "image-synthesis",
@@ -472,7 +472,7 @@
                 "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -577,7 +577,7 @@
                 "open_issues": 16,
                 "owner": "aimagelab",
                 "repo": "dress-code",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1175,
+                "stars": 1176,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6613,
+                "stars": 6615,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1908,
+                "stars": 1910,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -2317,7 +2317,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5979,
+            "stars": 5980,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:24:06.965Z",
+    "last_updated": "2026-11-09T02:38:13.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
