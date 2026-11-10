@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34153,
+                "stars": 34149,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -720,7 +720,7 @@
                 "open_issues": 9,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion_Try_On",
-                "stars": 888,
+                "stars": 886,
                 "topics": [
                   "acgpn",
                   "deepfashion",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6615,
+                "stars": 6618,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -883,7 +883,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1547,
+                "stars": 1548,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -1671,7 +1671,7 @@
             "open_issues": 21,
             "owner": "JDAI-CV",
             "repo": "Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving",
-            "stars": 216,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1767,7 +1767,7 @@
             "open_issues": 7,
             "owner": "Xiaojiu-z",
             "repo": "Stable-Hair",
-            "stars": 539,
+            "stars": 538,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2221,7 +2221,7 @@
             "open_issues": 4,
             "owner": "yumingj",
             "repo": "DeepFashion-MultiModal",
-            "stars": 669,
+            "stars": 670,
             "topics": [
               "siggraph2022"
             ]
@@ -2317,7 +2317,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5980,
+            "stars": 5981,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:38:13.805Z",
+    "last_updated": "2026-11-10T04:36:43.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2629,7 +2629,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3222,
+      "stars": 3225,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
