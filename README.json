@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34149,
+                "stars": 34154,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8875,
+                "stars": 8877,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7073,
+                "stars": 7074,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -307,7 +307,7 @@
                 "open_issues": 10,
                 "owner": "aimagelab",
                 "repo": "multimodal-garment-designer",
-                "stars": 445,
+                "stars": 446,
                 "topics": [
                   "computer-vision",
                   "diffusion-models",
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6618,
+                "stars": 6621,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 73,
                 "owner": "Zheng-Chong",
                 "repo": "CatVTON",
-                "stars": 1910,
+                "stars": 1912,
                 "topics": [
                   "diffusion-models",
                   "fashion",
@@ -1368,7 +1368,7 @@
                 "open_issues": 2,
                 "owner": "liren2515",
                 "repo": "GarmentRecovery",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1874,7 +1874,7 @@
             "open_issues": 37,
             "owner": "svip-lab",
             "repo": "impersonator",
-            "stars": 1720,
+            "stars": 1719,
             "topics": [
               "gan",
               "pose",
@@ -2317,7 +2317,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5981,
+            "stars": 5982,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:36:43.105Z",
+    "last_updated": "2026-11-11T02:44:59.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
