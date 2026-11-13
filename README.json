@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8876,
+                "stars": 8877,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7074,
+                "stars": 7075,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -361,7 +361,7 @@
                 "open_issues": 10,
                 "owner": "lizhi-ntu",
                 "repo": "KGI",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -389,7 +389,7 @@
                 "open_issues": 62,
                 "owner": "xiezhy6",
                 "repo": "GP-VTON",
-                "stars": 508,
+                "stars": 509,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6621,
+                "stars": 6622,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1537,7 +1537,7 @@
                 "open_issues": 3,
                 "owner": "KiseKloset",
                 "repo": "DM-VTON",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "knowledge-distillation",
                   "pytorch",
@@ -2196,7 +2196,7 @@
             "open_issues": 4,
             "owner": "yumingj",
             "repo": "DeepFashion-MultiModal",
-            "stars": 670,
+            "stars": 671,
             "topics": [
               "siggraph2022"
             ]
@@ -2292,7 +2292,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5983,
+            "stars": 5980,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2344,7 +2344,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2371,7 +2371,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4440,
+            "stars": 4441,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2400,7 +2400,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2592,7 +2592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:47:13.822Z",
+    "last_updated": "2026-11-13T03:23:31.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2604,7 +2604,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3226,
+      "stars": 3225,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
