@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34154,
+                "stars": 34157,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8877,
+                "stars": 8880,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7075,
+                "stars": 7077,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6622,
+                "stars": 6623,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -858,7 +858,7 @@
                 "open_issues": 63,
                 "owner": "ShineChen1024",
                 "repo": "MagicClothing",
-                "stars": 1548,
+                "stars": 1547,
                 "topics": [
                   "try-on",
                   "virtual-tryon",
@@ -1784,7 +1784,7 @@
             "open_issues": 4,
             "owner": "Xiaojiu-z",
             "repo": "Stable-Makeup",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2292,7 +2292,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5980,
+            "stars": 5982,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2344,7 +2344,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 102,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2400,7 +2400,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1244,
+            "stars": 1245,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2592,7 +2592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:23:31.926Z",
+    "last_updated": "2026-11-14T03:09:56.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
