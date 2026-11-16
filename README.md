@@ -444,7 +444,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 * Dense Intrinsic Appearance Flow for Human Pose Transfer, CVPR 2019 - [Paper](https://arxiv.org/pdf/1903.11326v1.pdf), [Code](https://github.com/ly015/intrinsic_flow) ⭐ 147 | 🐛 7 | 🌐 Python | 📅 2024-07-25
 * Neural Pose Transfer by Spatially Adaptive Instance Normalization, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.07254v2.pdf), [Code](https://github.com/jiashunwang/Neural-Pose-Transfer) ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2021-09-15
 * Unsupervised Person Image Generation with Semantic Parsing Transformation, CVPR 2019, TPAMI 2020 - [Paper](https://arxiv.org/pdf/1904.03379.pdf), [Code](https://github.com/SijieSong/person_generation_spt) ⭐ 110 | 🐛 7 | 🌐 Python | 📅 2021-05-21
-* Generating Person Images with Appearance-aware Pose Stylizer, IJCAI 2020 - [Paper](https://arxiv.org/pdf/2007.09077.pdf), [Code](https://github.com/siyuhuang/PoseStylizer) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2020-07-30
+* Generating Person Images with Appearance-aware Pose Stylizer, IJCAI 2020 - [Paper](https://arxiv.org/pdf/2007.09077.pdf), [Code](https://github.com/siyuhuang/PoseStylizer) ⭐ 83 | 🐛 1 | 🌐 Python | 📅 2020-07-30
 * VGFlow: Visibility Guided Flow Network for Human Reposing, CVPR 2023 - [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jain_VGFlow_Visibility_Guided_Flow_Network_for_Human_Reposing_CVPR_2023_paper.html), [Project](https://mdsrlab.github.io/2023/03/17/VGFlow-CVPR.html)
 * Cross Attention Based Style Distribution for Controllable Person Image Synthesis, ECCV 2022 - [Paper](https://arxiv.org/pdf/2208.00712.pdf)
 * InsetGAN for Full-Body Image Generation, CVPR 2022. - [Paper](https://arxiv.org/abs/2203.07293), [Project](http://afruehstueck.github.io/insetgan)
@@ -513,7 +513,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,441 | 🐛 6 | 📅 2021-10-12
 * [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,246 | 🐛 29 | 📅 2021-11-12
-* [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 664 | 🐛 2 | 📅 2024-01-01
+* [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 665 | 🐛 2 | 📅 2024-01-01
 * [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 639 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
 * [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer) ⭐ 334 | 🐛 1 | 📅 2026-02-12
 * [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human) ⭐ 257 | 🐛 1 | 📅 2023-10-30
@@ -524,4 +524,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

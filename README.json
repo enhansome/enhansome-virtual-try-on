@@ -2166,7 +2166,7 @@
             "open_issues": 1,
             "owner": "siyuhuang",
             "repo": "PoseStylizer",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "person-image-generation",
               "pytorch"
@@ -2428,7 +2428,7 @@
             "open_issues": 2,
             "owner": "3DFaceBody",
             "repo": "awesome-3dbody-papers",
-            "stars": 664,
+            "stars": 665,
             "topics": [
               "3d-body",
               "3d-pose",
@@ -2592,7 +2592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:36:59.381Z",
+    "last_updated": "2026-11-16T02:42:27.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
