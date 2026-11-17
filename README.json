@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3422,
+                "stars": 3420,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8879,
+                "stars": 8881,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -188,7 +188,7 @@
                 "open_issues": 1,
                 "owner": "rlawjdghek",
                 "repo": "StableVITON",
-                "stars": 1266,
+                "stars": 1265,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -445,7 +445,7 @@
                 "open_issues": 64,
                 "owner": "sangyun884",
                 "repo": "HR-VITON",
-                "stars": 918,
+                "stars": 917,
                 "topics": [
                   "image-generation",
                   "image-synthesis",
@@ -612,7 +612,7 @@
                 "open_issues": 14,
                 "owner": "cuiaiyu",
                 "repo": "dressing-in-order",
-                "stars": 551,
+                "stars": 552,
                 "topics": [
                   "iccv2021",
                   "pose-transfer"
@@ -643,7 +643,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1176,
+                "stars": 1175,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -671,7 +671,7 @@
                 "open_issues": 63,
                 "owner": "geyuying",
                 "repo": "PF-AFN",
-                "stars": 558,
+                "stars": 559,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -753,7 +753,7 @@
                 "open_issues": 23,
                 "owner": "sergeywong",
                 "repo": "cp-vton",
-                "stars": 530,
+                "stars": 531,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -774,7 +774,7 @@
                 "open_issues": 17,
                 "owner": "andrewjong",
                 "repo": "SwapNet",
-                "stars": 389,
+                "stars": 390,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -809,7 +809,7 @@
                 "open_issues": 21,
                 "owner": "xthan",
                 "repo": "VITON",
-                "stars": 582,
+                "stars": 583,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -837,7 +837,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6623,
+                "stars": 6625,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -930,7 +930,7 @@
                 "open_issues": 28,
                 "owner": "miccunifi",
                 "repo": "ladi-vton",
-                "stars": 466,
+                "stars": 465,
                 "topics": [
                   "acmmm",
                   "acmmm2023",
@@ -1595,7 +1595,7 @@
             "open_issues": 14,
             "owner": "cuiaiyu",
             "repo": "dressing-in-order",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "iccv2021",
               "pose-transfer"
@@ -1874,7 +1874,7 @@
             "open_issues": 40,
             "owner": "tengteng95",
             "repo": "Pose-Transfer",
-            "stars": 742,
+            "stars": 743,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1895,7 +1895,7 @@
             "open_issues": 30,
             "owner": "RenYurui",
             "repo": "Global-Flow-Local-Attention",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "cvpr2020",
               "spatial-transformer-network"
@@ -2400,7 +2400,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1246,
+            "stars": 1247,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2494,7 +2494,7 @@
             "open_issues": 1,
             "owner": "Zhangjinso",
             "repo": "Awesome-pose-transfer",
-            "stars": 334,
+            "stars": 335,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2592,7 +2592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:42:27.308Z",
+    "last_updated": "2026-11-17T05:03:28.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2604,7 +2604,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3225,
+      "stars": 3226,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
