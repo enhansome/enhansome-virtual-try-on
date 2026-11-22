@@ -21,7 +21,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,157 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,159 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
 * [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,419 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
@@ -187,7 +187,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ECCV 2018
 
-* Toward Characteristic-Preserving Image-based Virtual Try-On Network - [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bochao_Wang_Toward_Characteristic-Preserving_Image-based_ECCV_2018_paper.pdf), [Code](https://github.com/sergeywong/cp-vton) ⭐ 531 | 🐛 23 | 🌐 Python | 📅 2020-12-01
+* Toward Characteristic-Preserving Image-based Virtual Try-On Network - [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bochao_Wang_Toward_Characteristic-Preserving_Image-based_ECCV_2018_paper.pdf), [Code](https://github.com/sergeywong/cp-vton) ⭐ 532 | 🐛 23 | 🌐 Python | 📅 2020-12-01
 * SwapNet: Garment Transfer in Single View Images - [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf), [Code (community contribution)](https://github.com/andrewjong/SwapNet) ⚠️ Archived
 
 #### CVPR 2018
@@ -198,7 +198,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 * OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,624 | 🐛 88 | 🌐 Python | 📅 2024-05-13
 * Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing) ⭐ 1,547 | 🐛 63 | 🌐 Python | 📅 2024-07-29
-* IMAGDressing-v1: Customizable Virtual Dressing, AAAI 2025 - [Paper](https://doi.org/10.1609/aaai.v39i7.32729), [Demo](https://sf.dictdoc.site/), [Code](https://github.com/muzishen/IMAGDressing) ⭐ 1,343 | 🐛 10 | 🌐 Python | 📅 2025-09-30, [Project](https://imagdressing.github.io/)
+* IMAGDressing-v1: Customizable Virtual Dressing, AAAI 2025 - [Paper](https://doi.org/10.1609/aaai.v39i7.32729), [Demo](https://sf.dictdoc.site/), [Code](https://github.com/muzishen/IMAGDressing) ⭐ 1,344 | 🐛 10 | 🌐 Python | 📅 2025-09-30, [Project](https://imagdressing.github.io/)
 * Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2308.06101), [Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) ⭐ 507 | 🐛 22 | 🌐 Python | 📅 2023-12-06
 * LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2305.13501), [Code](https://github.com/miccunifi/ladi-vton) ⭐ 465 | 🐛 28 | 🌐 Python | 📅 2023-09-05
 * Deep Virtual Try-on with Clothes Transform, ICS 2018 - [Paper](https://link.springer.com/chapter/10.1007/978-981-13-9190-3_22), [Code](https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform) ⭐ 420 | 🐛 14 | 🌐 Python | 📅 2022-11-22
@@ -524,4 +524,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

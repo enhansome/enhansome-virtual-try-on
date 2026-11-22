@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34157,
+                "stars": 34159,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -753,7 +753,7 @@
                 "open_issues": 23,
                 "owner": "sergeywong",
                 "repo": "cp-vton",
-                "stars": 531,
+                "stars": 532,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -883,7 +883,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1343,
+                "stars": 1344,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -2592,7 +2592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:56:14.191Z",
+    "last_updated": "2026-11-22T03:05:13.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2604,7 +2604,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3229,
+      "stars": 3230,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
