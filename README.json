@@ -909,7 +909,7 @@
                 "open_issues": 22,
                 "owner": "bcmi",
                 "repo": "DCI-VTON-Virtual-Try-On",
-                "stars": 507,
+                "stars": 508,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1784,7 +1784,7 @@
             "open_issues": 4,
             "owner": "Xiaojiu-z",
             "repo": "Stable-Makeup",
-            "stars": 234,
+            "stars": 233,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2371,7 +2371,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4442,
+            "stars": 4443,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2400,7 +2400,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1246,
+            "stars": 1247,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2592,7 +2592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:05:13.980Z",
+    "last_updated": "2026-11-23T03:42:12.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",

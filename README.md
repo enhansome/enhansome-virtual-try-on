@@ -199,7 +199,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 * OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion) ⭐ 6,624 | 🐛 88 | 🌐 Python | 📅 2024-05-13
 * Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing) ⭐ 1,547 | 🐛 63 | 🌐 Python | 📅 2024-07-29
 * IMAGDressing-v1: Customizable Virtual Dressing, AAAI 2025 - [Paper](https://doi.org/10.1609/aaai.v39i7.32729), [Demo](https://sf.dictdoc.site/), [Code](https://github.com/muzishen/IMAGDressing) ⭐ 1,344 | 🐛 10 | 🌐 Python | 📅 2025-09-30, [Project](https://imagdressing.github.io/)
-* Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2308.06101), [Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) ⭐ 507 | 🐛 22 | 🌐 Python | 📅 2023-12-06
+* Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2308.06101), [Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) ⭐ 508 | 🐛 22 | 🌐 Python | 📅 2023-12-06
 * LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2305.13501), [Code](https://github.com/miccunifi/ladi-vton) ⭐ 465 | 🐛 28 | 🌐 Python | 📅 2023-09-05
 * Deep Virtual Try-on with Clothes Transform, ICS 2018 - [Paper](https://link.springer.com/chapter/10.1007/978-981-13-9190-3_22), [Code](https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform) ⭐ 420 | 🐛 14 | 🌐 Python | 📅 2022-11-22
 * Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images -[Paper](https://arxiv.org/pdf/2311.16094.pdf), [Data](https://github.com/cuiaiyu/street-tryon-benchmark) ⭐ 160 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-19
@@ -411,7 +411,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 * Stable-Hair: Real-World Hair Transfer via Diffusion Model, AAAI 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Hair) ⭐ 538 | 🐛 7 | 🌐 Python | 📅 2025-03-14
 * OmniTry: Virtual Try-On Anything without Masks - [Paper](http://arxiv.org/abs/2508.13632), [Code](https://github.com/Kunbyte-AI/OmniTry) ⭐ 274 | 🐛 7 | 🌐 Python | 📅 2025-08-29
-* Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model, SIGGRAPH 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Makeup) ⭐ 234 | 🐛 4 | 🌐 Python | 📅 2024-07-14
+* Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model, SIGGRAPH 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Makeup) ⭐ 233 | 🐛 4 | 🌐 Python | 📅 2024-07-14
 * HairPort: In-context 3D-aware Hair Import and Transfer for Images, SIGGRAPH 2026 - [Paper](https://arxiv.org/abs/2606.12562), [Code](https://github.com/deepmancer/HairPort) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-07-17, [Project](https://deepmancer.github.io/HairPort/)
 * Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model, CVPR 2025 - [Paper](https://doi.org/10.1109/cvpr52734.2025.00042)
 * From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos, ICCV 2025 - [Paper](https://doi.org/10.1109/iccv51701.2025.02385)
@@ -511,8 +511,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Related Repositories
 
-* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,442 | 🐛 6 | 📅 2021-10-12
-* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,246 | 🐛 29 | 📅 2021-11-12
+* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,443 | 🐛 6 | 📅 2021-10-12
+* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,247 | 🐛 29 | 📅 2021-11-12
 * [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 665 | 🐛 2 | 📅 2024-01-01
 * [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 640 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
 * [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer) ⭐ 334 | 🐛 1 | 📅 2026-02-12
@@ -524,4 +524,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
