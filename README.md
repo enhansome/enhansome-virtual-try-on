@@ -21,13 +21,13 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### ControlNet
 
-* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,159 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+* [ControlNet](https://github.com/lllyasviel/ControlNet) ⭐ 34,163 | 🐛 461 | 🌐 Python | 📅 2024-02-25 - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
 * [EditAnything](https://github.com/sail-sg/EditAnything) ⭐ 3,419 | 🐛 45 | 🌐 Python | 📅 2025-02-23 - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
 
 #### Stable-Diffusion
 
-* [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,881 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
-* [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,076 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
+* [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) ⭐ 8,882 | 🐛 197 | 🌐 Python | 📅 2023-12-10 - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
+* [ThreeStudio](https://github.com/threestudio-project/threestudio) ⭐ 7,077 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2024-12-16 - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
 
 ## Image-based (2D) Virtual Try-on
 
@@ -44,6 +44,10 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 * Layering Virtual Try-On - [Paper](https://doi.org/10.1007/978-3-032-37255-0_21)
 * Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off - [Paper](https://doi.org/10.1007/978-3-032-37602-2_4)
 * WearWow: Native 2K Multi-garment Virtual Try-On via Adaptive Token Packing and Preference Alignment - [Paper](https://doi.org/10.1007/978-3-032-37032-7_34)
+
+#### NeurIPS 2026
+
+* CORAL: Correspondence Alignment for Improved Virtual Try-On - [Paper](https://arxiv.org/abs/2602.17636), [Project](https://cvlab-kaist.github.io/CORAL/), [Code](https://github.com/cvlab-kaist/CORAL) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-10-10
 
 #### NeurIPS 2025
 
@@ -163,7 +167,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 #### CVPR 2020
 
-* Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content - [Paper/Code/Data](https://github.com/switchablenorms/DeepFashion_Try_On) ⭐ 886 | 🐛 9 | 🌐 Python | 📅 2022-10-04
+* Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content - [Paper/Code/Data](https://github.com/switchablenorms/DeepFashion_Try_On) ⭐ 888 | 🐛 9 | 🌐 Python | 📅 2022-10-04
 * Image Based Virtual Try-On Network From Unpaired Data - [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Neuberger_Image_Based_Virtual_Try-On_Network_From_Unpaired_Data_CVPR_2020_paper.html)
 * Semantically Multi-modal Image Synthesis - [Paper/Code/Model](https://seanseattle.github.io/SMIS/)
 
@@ -379,7 +383,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Multi-Pose Guided Virtual Try-on
 
-* Down to the Last Detail: Virtual Try-on with Fine-grained Details, ACM MM 2020 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413514), [Code/Model](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving) ⭐ 217 | 🐛 21 | 🌐 Python | 📅 2021-05-17, [ArXiv](https://arxiv.org/abs/1912.06324v2)
+* Down to the Last Detail: Virtual Try-on with Fine-grained Details, ACM MM 2020 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413514), [Code/Model](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving) ⭐ 218 | 🐛 21 | 🌐 Python | 📅 2021-05-17, [ArXiv](https://arxiv.org/abs/1912.06324v2)
 * Towards Multi-pose Guided Virtual Try-on Network, ICCV 2019 - [Paper](https://arxiv.org/abs/1902.11026), [Code](https://github.com/thaithanhtuan/MyMGVTON) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2020-04-02
 * CF-VTON: Multi-Pose Virtual Try-on with Cross-Domain Fusion, ICASSP 2023 - [Paper](https://ieeexplore.ieee.org/abstract/document/10095176)
 * Multiple Pose Virtual Try-On Based on 3D Clothing Reconstruction, IEEE Access 2021 - [Paper](https://ieeexplore.ieee.org/document/9512041)
@@ -493,9 +497,9 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Demos
 
-* Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,978 | 🐛 55 | 📅 2024-07-26
+* Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone) ⭐ 5,977 | 🐛 55 | 📅 2024-07-26
 * Outfit Anyone-in-the-Wild - [Demo](https://huggingface.co/spaces/selfit-camera/OutfitAnyone-in-the-Wild), [Docs](https://github.com/selfitcamera/Outfit-Anyone-in-the-Wild) ⭐ 269 | 🐛 8 | 🌐 Python | 📅 2024-05-30
-* Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 104 | 🐛 6 | 🌐 Python | 📅 2026-01-27
+* Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV) ⭐ 105 | 🐛 6 | 🌐 Python | 📅 2026-01-27
 * Looklet Dressing Room [Business](https://looklet.com), [Demo](https://dressing-room.looklet.com)
 * TINT platform for virtual try-on of everything face-related (makeup, glasses, earrings, jewelry, etc.) [Business](https://www.banuba.com/solutions/e-commerce/virtual-try-on), [Demo](https://banuba.com/solutions/e-commerce/virtual-makeup-demo/).
 * Virtual Try On AI - [Business/Demo](https://aitryon.art/)
@@ -511,7 +515,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Related Repositories
 
-* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,443 | 🐛 6 | 📅 2021-10-12
+* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,444 | 🐛 6 | 📅 2021-10-12
 * [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,247 | 🐛 29 | 📅 2021-11-12
 * [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers) ⭐ 665 | 🐛 2 | 📅 2024-01-01
 * [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers) ⭐ 640 | 🐛 7 | 🌐 Shell | 📅 2021-09-19
@@ -524,4 +528,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

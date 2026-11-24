@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34159,
+                "stars": 34163,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8881,
+                "stars": 8882,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -98,7 +98,7 @@
                 "open_issues": 193,
                 "owner": "threestudio-project",
                 "repo": "threestudio",
-                "stars": 7076,
+                "stars": 7077,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -114,6 +114,34 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CORAL: Correspondence Alignment for Improved Virtual Try-On - Paper",
+              "description": ", Project, Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1153404914,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-10T09:02:36Z",
+                "open_issues": 0,
+                "owner": "cvlab-kaist",
+                "repo": "CORAL",
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-11-24T06:56:25.800Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NeurIPS 2026"
+        },
         {
           "children": [
             {
@@ -720,7 +748,7 @@
                 "open_issues": 9,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion_Try_On",
-                "stars": 886,
+                "stars": 888,
                 "topics": [
                   "acgpn",
                   "deepfashion",
@@ -1646,7 +1674,7 @@
             "open_issues": 21,
             "owner": "JDAI-CV",
             "repo": "Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2292,7 +2320,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5978,
+            "stars": 5977,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2344,7 +2372,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 104,
+            "stars": 105,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2371,7 +2399,7 @@
             "open_issues": 6,
             "owner": "openMVG",
             "repo": "awesome_3DReconstruction_list",
-            "stars": 4443,
+            "stars": 4444,
             "topics": [
               "3d-reconstruction",
               "awesome-list",
@@ -2592,7 +2620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:42:12.594Z",
+    "last_updated": "2026-11-24T06:56:25.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2600,11 +2628,11 @@
       "id": 273734636,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-01T09:16:13Z",
+      "last_commit": "2026-11-24T01:25:03Z",
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3230,
+      "stars": 3231,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
@@ -2628,7 +2656,7 @@
         "vton"
       ]
     },
-    "original_repository_sha": "4eb0cc1ba5f6ddc70f8a1f36ee30037d4b84d7b2",
+    "original_repository_sha": "f125f8202f57f9cf6e8b1a1fe573e3404e462107",
     "enhanced_repository": "enhansome/enhansome-virtual-try-on",
     "enhanced_repository_description": null,
     "title": "A Curated List of Awesome Virtual Try-on (VTON) Research! with stars"
