@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3419,
+                "stars": 3420,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2620,7 +2620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:56:25.800Z",
+    "last_updated": "2026-11-25T05:24:39.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
