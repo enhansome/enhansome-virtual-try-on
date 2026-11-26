@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34163,
+                "stars": 34159,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "sail-sg",
                 "repo": "EditAnything",
-                "stars": 3420,
+                "stars": 3421,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -70,7 +70,7 @@
                 "open_issues": 197,
                 "owner": "ashawkey",
                 "repo": "stable-dreamfusion",
-                "stars": 8882,
+                "stars": 8884,
                 "topics": [
                   "dreamfusion",
                   "gui",
@@ -865,7 +865,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6624,
+                "stars": 6623,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1791,7 +1791,7 @@
             "open_issues": 7,
             "owner": "Kunbyte-AI",
             "repo": "OmniTry",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2372,7 +2372,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2620,7 +2620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:24:39.891Z",
+    "last_updated": "2026-11-26T04:58:50.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2632,7 +2632,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3231,
+      "stars": 3233,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
