@@ -911,7 +911,7 @@
                 "open_issues": 10,
                 "owner": "muzishen",
                 "repo": "IMAGDressing",
-                "stars": 1344,
+                "stars": 1345,
                 "topics": [
                   "datasets",
                   "diffusion-models",
@@ -2372,7 +2372,7 @@
             "open_issues": 6,
             "owner": "ZaiqiangWu",
             "repo": "RTV",
-            "stars": 106,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2425,7 +2425,7 @@
             "language": null,
             "license": null,
             "last_commit": "2021-11-12T18:29:30Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
             "stars": 1247,
@@ -2620,7 +2620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:58:50.453Z",
+    "last_updated": "2026-11-27T04:59:06.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
@@ -2632,7 +2632,7 @@
       "open_issues": 6,
       "owner": "minar09",
       "repo": "awesome-virtual-try-on",
-      "stars": 3233,
+      "stars": 3234,
       "topics": [
         "2d-virtual-try-on",
         "3d-virtual-try-on",
