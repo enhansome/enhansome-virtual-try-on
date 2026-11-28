@@ -21,7 +21,7 @@
                 "open_issues": 461,
                 "owner": "lllyasviel",
                 "repo": "ControlNet",
-                "stars": 34159,
+                "stars": 34161,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -748,7 +748,7 @@
                 "open_issues": 9,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion_Try_On",
-                "stars": 888,
+                "stars": 887,
                 "topics": [
                   "acgpn",
                   "deepfashion",
@@ -865,7 +865,7 @@
                 "open_issues": 88,
                 "owner": "levihsu",
                 "repo": "OOTDiffusion",
-                "stars": 6623,
+                "stars": 6624,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1674,7 +1674,7 @@
             "open_issues": 21,
             "owner": "JDAI-CV",
             "repo": "Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving",
-            "stars": 218,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -1770,7 +1770,7 @@
             "open_issues": 7,
             "owner": "Xiaojiu-z",
             "repo": "Stable-Hair",
-            "stars": 538,
+            "stars": 539,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2320,7 +2320,7 @@
             "open_issues": 55,
             "owner": "HumanAIGC",
             "repo": "OutfitAnyone",
-            "stars": 5977,
+            "stars": 5978,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:11.678Z"
@@ -2620,7 +2620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:59:06.506Z",
+    "last_updated": "2026-11-28T04:42:51.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
